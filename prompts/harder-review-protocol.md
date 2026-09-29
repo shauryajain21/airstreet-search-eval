@@ -1,0 +1,9 @@
+# Review protocol
+
+The 48-task retrieval run is the operational sample (reliability, timing, evidence volume and cost). The primary manually adjudicated quality sample is the 16 questions marked validation in the original draft, two per category: 5, 6, 11, 12, 17, 18, 23, 24, 29, 30, 35, 36, 41, 42, 47, 48. All 32 development results remain available as diagnostics, but are not silently treated as quality passes. This narrows the proposed full 48-task manual quality review; it does not narrow the executed request set. Selection is inherited from the draft and does not depend on provider performance. Question 35 was previewed while establishing the review workflow; its membership was already fixed in the draft.
+
+Compare the combined retrieved evidence against the three frozen criteria. Grade 0 absent, 0.5 materially incomplete or secondary where primary evidence is required, 1 sufficient. Keep packet IDs provider-masked until scores are recorded. Full coverage means all three criteria earn 1; this is evidence readiness, not generated-answer accuracy. The reviewer is the same assistant that designed the set, not an independent human or a blinded external judge. Provider traces and characteristic formatting may make masking imperfect.
+
+Use source windows to navigate large responses, then search the full saved native content to resolve missing decisive facts. Metadata-only hits and empty/blocked document bodies do not count as content. Do not infer absence in a whole document from an excerpt. For open-ended discovery, allow any valid example; reference research is illustrative rather than an exhaustive gold list. This is an applied, exploratory benchmark and not a standardized leaderboard.
+
+The eight development questions selected for the deeper-mode check are a separate sensitivity sample. They cannot substitute for the reserved quality score, and their results do not establish an optimized 48-task ranking.

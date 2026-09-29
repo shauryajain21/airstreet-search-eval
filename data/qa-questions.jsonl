@@ -1,0 +1,28 @@
+{"id": "ASC-QA-01", "category": "company", "question": "How much did Wayve raise in its May 2024 Series C, and who led it?"}
+{"id": "ASC-QA-02", "category": "company", "question": "What role did Jamie Shotton hold at Microsoft before joining Wayve?"}
+{"id": "ASC-QA-03", "category": "company", "question": "Who led Isomorphic Labs' first external funding round, how much was raised, and when was it announced?"}
+{"id": "ASC-QA-04", "category": "company", "question": "In ElevenLabs' February 2026 Series D announcement, what were the amount raised, valuation, and lead investor?"}
+{"id": "ASC-QA-05", "category": "commercial", "question": "What revenue milestone did ElevenLabs report reaching in the first four months of 2026, and what metric did it use?"}
+{"id": "ASC-QA-06", "category": "commercial", "question": "What year-end 2025 ARR did ElevenLabs report in its February 4 and May 5, 2026 posts, and do the two statements necessarily contradict each other?"}
+{"id": "ASC-QA-07", "category": "commercial", "question": "What revenue figure and metric did Anthropic report in its April 20, 2026 Amazon compute announcement?"}
+{"id": "ASC-QA-08", "category": "commercial", "question": "What audited gross-margin percentage is disclosed in ElevenLabs' May 5, 2026 post about crossing $500 million ARR?"}
+{"id": "ASC-QA-09", "category": "compute", "question": "How many H800 GPU-hours does the DeepSeek-V3 technical report list for pre-training and for full training?"}
+{"id": "ASC-QA-10", "category": "compute", "question": "What does DeepSeek-V3's $5.576 million training-cost estimate include and exclude, and what hourly price does it assume?"}
+{"id": "ASC-QA-11", "category": "compute", "question": "In the IEA's 2026 Key Questions on Energy and AI report, what is projected global data-center electricity consumption in 2030, and what is the 2025 baseline?"}
+{"id": "ASC-QA-12", "category": "compute", "question": "In Anthropic's April 20, 2026 Amazon announcement, how much new capacity does the agreement secure, and how much is expected online by the end of 2026?"}
+{"id": "ASC-QA-13", "category": "research", "question": "How many language models and tasks were studied in the September 2026 paper Reward Hacking Challenges Oversight of Autonomous Research Agents?"}
+{"id": "ASC-QA-14", "category": "research", "question": "What spontaneous reward-hacking rates does Reward Hacking Challenges Oversight of Autonomous Research Agents report for open-ended research pipelines and task-specific kernels?"}
+{"id": "ASC-QA-15", "category": "research", "question": "What cumulative evasion rates did the September 2026 paper Reward Hacking Challenges Oversight of Autonomous Research Agents report with detailed feedback versus generic rejection, and did it isolate the effect of explanations?"}
+{"id": "ASC-QA-16", "category": "research", "question": "In the September 2026 paper Reward Hacking Challenges Oversight of Autonomous Research Agents, of the confirmed reward hacks, how many were missed by the panel reviewing submitted code and reported scores?"}
+{"id": "ASC-QA-17", "category": "policy_adoption", "question": "What augmentation and automation shares did the first Anthropic Economic Index report in February 2025?"}
+{"id": "ASC-QA-18", "category": "policy_adoption", "question": "Which Claude user population was included in the first Anthropic Economic Index, and does it directly measure the percentage of jobs eliminated by AI?"}
+{"id": "ASC-QA-19", "category": "policy_adoption", "question": "When was the UK AI Opportunities Action Plan published, and how many recommendations did it contain?"}
+{"id": "ASC-QA-20", "category": "policy_adoption", "question": "In its January 29, 2026 one-year update, how many of the AI Opportunities Action Plan's commitments did the UK government say it had met?"}
+{"id": "ASC-QA-21", "category": "legal", "question": "Under UK IPO guidance, who normally first owns copyright in a literary work made by an employee in the course of employment, and what contractual qualification applies?"}
+{"id": "ASC-QA-22", "category": "legal", "question": "Under UK IPO guidance, does paying an independent contractor to create a copyright work automatically make the commissioning startup its copyright owner?"}
+{"id": "ASC-QA-23", "category": "legal", "question": "Under section 90(3) of the UK Copyright, Designs and Patents Act 1988, what formalities make an assignment of existing copyright effective?"}
+{"id": "ASC-QA-24", "category": "legal", "question": "According to the Ministry of Justice NDA guidance for England and Wales, can a contractual confidentiality clause prevent a worker from making a protected disclosure under section 43J of the Employment Rights Act 1996?"}
+{"id": "ASC-QA-25", "category": "finance", "question": "In Y Combinator's 2018 explanation of post-money SAFEs, what ownership is sold by a $500,000 SAFE at a $10 million post-money cap, and is that percentage protected from dilution by new Series A money?"}
+{"id": "ASC-QA-26", "category": "finance", "question": "What change to estimated useful lives of server and network equipment did Microsoft report for fiscal 2023, and does this establish a universal physical lifespan for AI GPUs?"}
+{"id": "ASC-QA-27", "category": "finance", "question": "Under IFRS 13, is fair value an entry price or an exit price, and whose assumptions and what date govern the measurement?"}
+{"id": "ASC-QA-28", "category": "finance", "question": "In the IFRS Foundation's June 2023 review of IFRS 15, what determines whether a company is a principal or an agent, and how does that affect gross versus net revenue presentation?"}

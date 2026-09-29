@@ -1,0 +1,4 @@
+{
+  "qa": "{q} Find the original primary source (official announcement, research paper, government guidance or standard) and return the passages with the exact figures, names and dates, plus source URLs.",
+  "harder": "{q} Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs."
+}

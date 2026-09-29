@@ -1,0 +1,954 @@
+{
+ "config": {
+  "depth": "deep",
+  "max_results": 5,
+  "queries": "original"
+ },
+ "model": "gpt-5.5",
+ "records": [
+  {
+   "id": "ASC-HARD-05",
+   "requests": [
+    {
+     "q": "CoreWeave second quarter 2026 revenue operating income run rate before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "Nebius second quarter 2026 revenue annualized run rate operating loss before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+     "https://marketdaily.com/coreweave-q2-2026-earnings-revenue-doubles-ai-backlog-104-billion/",
+     "https://www.alphapilot.tech/discover/coreweave-lifts-fy2026-revenue-guidance-to-12-4b-13-2b-as-q2-sales-more-than-double",
+     "https://247wallst.com/investing/2026/08/11/live-will-coreweaves-q2-earnings-tonight-send-the-stock-higher/",
+     "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
+    ],
+    [
+     "https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf?cache-buster=2026-08-12T11%3A54%3A46.695Z",
+     "https://nebius.com/newsroom/nebius-reports-second-quarter-2026-financial-results",
+     "https://lycoristechnologies.com/blog/nebius-q2-2026-earnings-neocloud-rally/",
+     "https://247wallst.com/cards/nebius-group-n-v-q2-2026-earnings-nbis-01kzv29zjcz6d00azj6m859h38",
+     "https://www.tradingkey.com/news/earnings/262099252-tradingkey"
+    ]
+   ],
+   "selected_urls": [
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+    "https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf?cache-buster=2026-08-12T11%3A54%3A46.695Z"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "Packet gives Q2 2026 revenue for CoreWeave ($2.575B) and Nebius ($582.3M). Nebius provides ARR date and definition (end-June; last month revenue x12); CoreWeave run-rate appears only in snippets/secondary and not clearly company-defined. Operating evidence is sufficient: CoreWeave operating loss $(49)M; Nebius revenue versus operating costs imply loss, with snippet stating operating loss."
+    },
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "Primary releases provide Q2 2026 revenue: CoreWeave $2.575B and Nebius $582.3M. Nebius defines ARR as last-month AI cloud revenue annualized at June-end; CoreWeave run-rate evidence is only secondary excerpts/implicit annualization or year-end target, not a primary definition. Operating loss evidence exists for both via GAAP tables/costs versus revenue."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-06",
+   "requests": [
+    {
+     "q": "AI economy revenue methodology avoid double counting cloud models applications before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI spending end customer value chain revenue double counting methodology before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://runtimewire.com/article/exponential-view-ai-economy-demand-side-110-billion",
+     "https://www.exponentialview.co/p/the-state-of-the-ai-economy",
+     "https://www.hackingeconomics.com/p/ai-driven-economy-the-drivers-impact",
+     "https://www.thefai.org/posts/ai-will-worsen-our-estimates-of-gdp",
+     "https://www.brookings.edu/articles/counting-ai-a-blueprint-to-integrate-ai-investment-and-use-data-into-us-national-statistics/"
+    ],
+    [
+     "https://www.exponentialview.co/p/the-state-of-the-ai-economy",
+     "https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf",
+     "https://quantflowlab.com/ai-semiconductor-spending/",
+     "https://allweatherfinance.com/ai-quarterly-revenue-surpasses-depreciation-costs-for-the-first-time-has-the-trillion-dollar-computing-power-gamble-entered-the-return-validation-phase/",
+     "https://www.digitalapplied.com/blog/ai-spending-forecasts-2026-gartner-idc-stanford-compiled"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.exponentialview.co/p/the-state-of-the-ai-economy",
+    "https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet contains public methodologies: Exponential View’s deduplicated end-customer-spend rule and Dubach’s source-linked crosswalk. It explains removals of intercompany/value-chain overlap: lab-to-cloud spend, Microsoft/OpenAI, AWS/Anthropic, CoreWeave/Microsoft, silicon/OEM overlaps. Numeric relationships, including $1 Claude with $0.50 Amazon and disclosed overlap amounts, support a transparent double-count example."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet contains public methodologies (Exponential View snippets; Dubach May 2026 PDF) explicitly addressing de-duplication across AI value-chain layers. It specifies removed overlaps: Anthropic/AWS, Microsoft/OpenAI, AWS/Anthropic, CoreWeave/Microsoft, silicon/OEM/cloud resale. It provides enough dollar relationships and layer structure to build a transparent hypothetical double-count example including app/model/cloud layers."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-11",
+   "requests": [
+    {
+     "q": "agent reinforcement learning training CPU memory environment resource measured configuration before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "agentic RL rollout environment CPU bottleneck memory experimental hardware before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/pdf/2206.10558",
+     "https://www.opodab.com/2026/08/distributed-rl-training-ray-rllib-vs-sample-factory-vs-cleanrl-multi-gpu.html",
+     "https://dl.acm.org/doi/10.1145/3703453",
+     "https://arxiv.org/html/2312.06126",
+     "https://dev.to/turingrtss/i-trained-rl-agents-on-a-0-server-all-three-environments-solved-in-under-an-hour-15ab"
+    ],
+    [
+     "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+     "https://arxiv.org/html/2512.22560v1",
+     "https://www.spheron.network/blog/rl-environments-gpu-cloud-gymnasium-prime-intellect-verifiers/",
+     "https://modal.com/resources/best-compute-platforms-rl-rollout-generation-at-scale",
+     "https://www.softwareseni.com/why-ai-agents-are-bringing-cpus-back-to-the-centre-of-the-data-centre/"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/pdf/2206.10558",
+    "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "EnvPool paper is a primary technical RL environment/training source. It reports measured CPU configurations (12-core laptop, 32-core workstation, DGX-A100 with 256 CPU cores/8 NUMA) and FPS measurements. Its experiment setup—random actions, isolated environment simulation, 50K-iteration means, hardware details—clearly separates measured findings from broader vendor/industry claims."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "EnvPool (arXiv/NeurIPS 2022) is a primary technical RL-agent training infrastructure source. It reports measured CPU configurations and throughput: 12-core laptop, 32-core workstation, DGX-A100 with 256 CPU cores/8 NUMA, 50K-iteration FPS benchmarks. The experiment section clearly separates these measurements from NVIDIA’s broader 2026 agentic-demand discussion."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-12",
+   "requests": [
+    {
+     "q": "neocloud revenue active power contracted megawatts quarterly results 2026 before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI cloud annual revenue per MW billable active power capacity definitions before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/",
+     "https://scult.in/blog/neoclouds-gpu-cloud-challengers-to-the-hyperscalers",
+     "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
+     "https://www.datacenterknowledge.com/cloud/earnings-roundup-neoclouds-shift-from-gpu-race-to-power-wars",
+     "https://paperglass.co/topic/neocloud/activation-rate"
+    ],
+    [
+     "https://currentlogic.substack.com/p/datacenter-power-costs-and-roadmaps",
+     "https://tomtunguz.com/revenue-per-megawatt/",
+     "https://www.nextbigfuture.com/2026/05/economics-of-a-megawatt-of-ai-data-center.html",
+     "https://www.coreweave.com/blog/a-defining-year-for-the-essential-cloud-for-ai",
+     "https://www.reddit.com/r/datacenter/comments/1mqaje3/ai_data_center_unit_economics/"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/",
+    "https://www.coreweave.com/blog/a-defining-year-for-the-essential-cloud-for-ai"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet gives dated same-company figures: CoreWeave Q2 2026 revenue and active/contracted power in an Aug. 14, 2026 DCD report, plus FY2025 CoreWeave revenue/active power blog. It distinguishes active/live from contracted power. Period/scope details show Q2 or year-end point-in-time capacity, allowing rejection of a meaningful annual revenue/MW ratio without average aligned capacity."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "DCD dated Aug. 14, 2026 gives CoreWeave Q2 2026 revenue, active power/live capacity and contracted power; CoreWeave blog gives FY2025 revenue and active capacity. Evidence distinguishes active/live vs contracted and includes period/scope facts showing end-period capacity versus revenue-flow alignment issues needed to accept or reject a ratio."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-17",
+   "requests": [
+    {
+     "q": "AI science prospective experimental validation designed molecules primary paper before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI scientific discovery wet lab validation tested candidates denominator replication before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.nature.com/articles/s41467-024-47613-w",
+     "https://www.nature.com/articles/s41587-024-02143-0",
+     "https://www.nature.com/articles/s41591-025-03743-2",
+     "https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732",
+     "https://www.nature.com/articles/d41573-019-00170-0"
+    ],
+    [
+     "https://www.tinylittlelab.com/news/forge-2026-09-24-dashboard.html",
+     "https://science-technology.news-articles.net/content/2026/09/18/anthropic-s-shift-from-dry-lab-to-wet-lab-pharmacology.html",
+     "https://chatgptaihub.com/codex-research-playbook-antimicrobial-discovery-hypotheses-genome-data-lab-validation-evidence-gates/",
+     "https://science-technology.news-articles.net/content/2026/08/19/absci-s-closed-loop-ai-and-wet-lab-validation-synergy.html",
+     "https://levintalent.com/storm-feed-item/5-things-that-will-make-or-break-ai-drug-discovery-in-the-next-18-months/"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.nature.com/articles/s41467-024-47613-w",
+    "https://www.tinylittlelab.com/news/forge-2026-09-24-dashboard.html"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      0.5
+     ],
+     "reason": "Primary Nature Communications study is available with prospective DRAGONFLY design, synthesis/testing, and crystal-structure validation. It gives selection denominators/process: 300k generated, filters/ranking, top-5 lists, two designs synthesized/tested. Evidence supports validation, but independent replication is not shown for this primary result; only unresolved/secondary claims appear."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      0.5
+     ],
+     "reason": "Primary Nature Communications study reports prospective DRAGONFLY de novo design with synthesis and biochemical/biophysical/crystal-structure validation. It gives selection denominators/process: 300k generated, filtered/ranked, top-5 lists, top two synthesized/tested. Packet distinguishes internal validation, but provides no primary independent replication evidence; replication status would remain unresolved."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-18",
+   "requests": [
+    {
+     "q": "agent benchmark ranking inference cost budget constraint primary evaluation before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI agent benchmark accuracy cost Pareto frontier model comparison before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/html/2608.05519",
+     "https://arxiv.org/html/2511.02734v1",
+     "https://dreaming.press/posts/cost-aware-agent-evaluation.html",
+     "https://dev.to/levash0v/agent-leaderboards-measure-score-we-added-price-1999",
+     "https://www.researchgate.net/publication/405474946_Budget-Aware_LLM_Agents_Evaluation_Failure_Modes_and_Trainable_Cost_Control"
+    ],
+    [
+     "https://aclanthology.org/2026.acl-srw.82/",
+     "https://agentguides.dev/best/llm-benchmark-comparison-2026/",
+     "https://agentpatterns.ai/token-engineering/cost-quality-pareto-measurement/",
+     "https://cobusgreyling.medium.com/the-pareto-frontier-for-ai-agents-fa477eaaac6e",
+     "https://arxiv.org/html/2606.12821v1"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/html/2608.05519",
+    "https://arxiv.org/html/2606.12821v1"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet includes primary public cost-aware benchmarks (EcoAgent-Bench arXiv 2026-08-06; GeoNatureAgent arXiv 2026-06-11). GeoNatureAgent provides a clear comparable pair: Claude Sonnet 4 60.8% at $0.127/case vs DeepSeek V3.2 56.3% at $0.011/case. It also supplies budget/cost axes, seeds, temperature, and deployment projections."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet includes primary benchmark sources: EcoAgent-Bench with explicit priced actions/budgets and GeoNatureAgent with cost-accuracy Pareto. It provides comparable cost/outcome pairs (e.g., Claude vs DeepSeek, or EcoAgent controls/LLMs with units and success). Budget/sampling details are present: per-case budgets, tight/medium/loose sweeps, seeds/temperature, max turns, and cost-gating notes."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-23",
+   "requests": [
+    {
+     "q": "humanoid robot production deployment vendor customer account pilot autonomy before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "robot customer factory deployment paid autonomous teleoperation pilot evidence before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://axis-intelligence.com/humanoid-robot-deployment-tracker/",
+     "https://techniahqservice.com/robotics-news/humanoid-factory-deployments",
+     "https://thorstenmeyerai.com/insights/the-humanoid-robotics-reality-check-q2-2026-pilot-to-production-status/",
+     "https://www.curionic.net/2026/06/figure-03-vs-apptronik-apollo-vs-agility-digit-enterprise-humanoid-2026.html",
+     "https://ifactoryapp.com/industries/manufacturing-plant/humanoid-robots-factory-floor-figure-apollo-mercedes"
+    ],
+    [
+     "https://ifactoryapp.com/industries/manufacturing-plant/humanoid-robots-factory-floor-figure-apollo-mercedes",
+     "https://www.techniahqservice.com/robotics-news/humanoid-factory-deployments",
+     "https://gxo.com/news_article/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics/",
+     "https://techniahqservice.com/robotics-news/humanoid-factory-deployments",
+     "https://www.beri.net/article/bmw-humanoid-robot-roi-30000-cars"
+    ]
+   ],
+   "selected_urls": [
+    "https://axis-intelligence.com/humanoid-robot-deployment-tracker/",
+    "https://ifactoryapp.com/industries/manufacturing-plant/humanoid-robots-factory-floor-figure-apollo-mercedes"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "Customer-side GXO excerpt gives dated same-deployment account: multi-year RaaS after pilot, live warehouse/SPANX tasks. Operating/commercial status and autonomy are covered by GXO, Axis, and Technia, with intervention gaps explicit. Vendor-side evidence is only secondary Axis summary/quoted Agility material, not a fetched standalone vendor announcement."
+    },
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "GXO customer release excerpt gives same Digit deployment, date, live warehouse/RaaS terms and tasks. Packet only summarizes Agility/vendor filing or joint announcement via Axis rather than fetched vendor primary, so vendor account is incomplete. Operating status/commercial terms are supported; autonomy is characterized as supervised/Arc-managed with intervention details unresolved."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-24",
+   "requests": [
+    {
+     "q": "AI healthcare product retrospective prospective validation regulatory authorization before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI diagnostic product clinical trial patient outcomes regulatory approval evidence before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001597",
+     "https://www.medtechdive.com/news/nature-ai-medical-devices-clinical-evidence/726449/",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450195/",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12044510/",
+     "https://intuitionlabs.ai/articles/fda-ai-ml-samd-guidance-compliance"
+    ],
+    [
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC13489462/",
+     "https://ascoai.org/articles/2026/09/fda-cleared-ai-faces-an-evidence-gap/",
+     "https://intuitionlabs.ai/articles/clinical-evidence-requirements-ai-diagnostics",
+     "https://www.mlaia.com/blog-clinical-ai-production.html",
+     "https://intuitionlabs.ai/articles/ai-medical-devices-regulation-2025"
+    ]
+   ],
+   "selected_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450195/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13489462/"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0.5,
+      0.5,
+      1
+     ],
+     "reason": "Packet gives a named example (IDx-DR) with validation metrics and 900-patient pivotal study, but only secondary snippets and limited design detail. Regulatory evidence is only secondary/general FDA clearance/status, not a regulator record. It clearly distinguishes sensitivity/specificity and surrogate endpoints from patient-centered outcomes/benefit and notes benefit evidence is rare/unresolved."
+    },
+    {
+     "scores": [
+      0.5,
+      0.5,
+      0.5
+     ],
+     "reason": "Only snippets, not fetched substantive sources, identify IDx-DR and give empirical accuracy metrics from a ~900-patient trial; primary validation paper is not retrieved. Regulatory evidence is secondary and imprecise (“FDA clearance,” no regulator record/date/pathway). Snippets distinguish sensitivity/specificity as surrogate accuracy from patient-centered outcomes generally, but not product-specific patient benefit."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-29",
+   "requests": [
+    {
+     "q": "AI data center project delayed power grid permitting official record before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "data center delayed electricity connection regulator developer timeline before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval",
+     "https://www.useluminix.com/reports/industry-analysis/understanding-dylan-patel-of-semianalyis-deep-dive-on-ai-compute-scaling-bottlenecks/source/5",
+     "https://jain.com/ferc-data-center-interconnection-delays-ai-grid-chokepoint/",
+     "https://enkiai.com/data-center/ai-data-center-energy-2026-2600-gw-queue-pjm-plan/",
+     "https://epgsolutions.services/blogs/regulatory-pulse/grid-pulse-july-4-2026-pjm-likely-shattered-its-all-time-peak-record-and-nearly-curtailed-data-centers"
+    ],
+    [
+     "https://lowdown.today/e/ferc/",
+     "https://webiis08.mondaq.com/unitedstates/utilities/1828462/texas-imposes-new-audit-requirement-for-data-center-projects-delaying-ercot-interconnection-reviews",
+     "https://mgrid.org/2026/08/03/texas-freezes-new-data-center-grid-approvals-until-puct-and-ercot-audit-a-474-gw-queue/",
+     "https://data-central.co.uk/ercot-delays-data-centre-queue-classifications/",
+     "https://marketbusinessnews.com/texas-pauses-data-center-grid-connection-approvals-as-power-queue-reaches-474-gigawatts/450420/"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval",
+    "https://lowdown.today/e/ferc/"
+   ],
+   "fetch_status": [
+    400,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0,
+      1,
+      0.5
+     ],
+     "reason": "Packet lacks any named AI data-center project or developer-announced original timeline. It does show dated timeline changes tied to grid review: Abbott’s Aug. 3, 2026 directive and ERCOT postponing Aug. 7 Batch Zero classifications. Regulator/grid corroboration is present only for the general queue/process, not a specific project, so uncertainty remains."
+    },
+    {
+     "scores": [
+      0,
+      0.5,
+      0.5
+     ],
+     "reason": "Packet gives no named AI data-center project or original project timeline. It does show a dated ERCOT/Texas Batch Zero delay after an Aug. 3, 2026 directive tied to grid/audit constraints, but only at process/queue level. Regulator/grid corroboration is referenced secondarily, not tied to a specific project."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-30",
+   "requests": [
+    {
+     "q": "researchers AI compute access government policy eligibility allocations before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "public research AI compute program awarded resources eligibility funding delivered before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://grantedai.com/blog/nsf-nairr-operations-center-award-2616251-35-million-sdsc-tacc-september-1-2026-900-teams-monthly-allocation-cycle-strategy",
+     "https://grantedai.com/blog/ai-compute-grants-gpu-credits-guide",
+     "https://grantedai.com/grants/nairr-pilot-resource-allocations-for-ai-research-and-education-national-science-foundation-nsf-with-13--2463dd56",
+     "https://www.gov.uk/government/publications/ai-research-resource/ai-open-access-call",
+     "https://www.gov.uk/government/publications/airr-compute-opportunity-ai-for-science/airr-compute-opportunity-ai-for-science"
+    ],
+    [
+     "https://science.osti.gov/-/media/grants/pdf/lab-announcements/2026/LAB-26-3601.pdf",
+     "https://grantedai.com/blog/nsf-nairr-operations-center-award-2616251-35-million-sdsc-tacc-september-1-2026-900-teams-monthly-allocation-cycle-strategy",
+     "https://www.sdsc.edu/news/2026/PR20260901-NAIRR-OC.html",
+     "https://grantedai.com/grants/nairr-pilot-resource-requests-to-advance-ai-research-and-education-wit-u-s-national-science-foundation-nsf-and-u-s-d-1a3b0779",
+     "https://grantedai.com/grants/advanced-scientific-computing-research-artificial-intelligence-for-scien-u-s-doe-office-of-science-sc-7b82d129"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.gov.uk/government/publications/ai-research-resource/ai-open-access-call",
+    "https://science.osti.gov/-/media/grants/pdf/lab-announcements/2026/LAB-26-3601.pdf"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet identifies NAIRR and UK AIRR AI Open Access as concrete access policies. It gives eligibility and allocations for both: NAIRR in-kind compute/models/data/cloud allocations; AIRR UK org eligibility and 50k–1.4M GPU-hour awards from 8M pool. It distinguishes funding/commitments from delivered usable compute: $35M NAIRR operations, UK no funding/compute hours."
+    },
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "UK AIRR open access call is fully documented; NAIRR is identified via NSF/SDSC and detailed secondary snippets. UK eligibility/allocation evidence is primary and complete, but NAIRR eligibility/allocation specifics rely mainly on secondary Granted AI snippets. Funding-versus-compute distinction is clear for UK and NAIRR operations/in-kind allocations."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-35",
+   "requests": [
+    {
+     "q": "server useful life estimate change earnings effect annual report Microsoft Amazon before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "server depreciation useful life changes net income impact 2024 2025 filings before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://wiresift.com/ai-server-depreciation",
+     "https://hudson-labs.com/research/msft-server-useful-life",
+     "https://deepquarry.substack.com/p/amazon-revises-server-lifespan-amid",
+     "https://hudson-labs.com/blog/accounting-policy-changes-boost-tech-earnings",
+     "https://next-curve.com/2022/02/13/cloud_economics_accounting_changes/"
+    ],
+    [
+     "https://hudson-labs.com/research/server-useful-life-amzn-meta",
+     "https://www.hudson-labs.com/research/amazon-server-depreciation-amzn",
+     "https://hudson-labs.com/research/meta-financials-meta",
+     "https://vapwealthadvisors.com/big-tech-depreciation-math/",
+     "https://medium.com/all-on-the-line/the-useful-life-of-a-useful-life-2caac709b5e0"
+    ]
+   ],
+   "selected_urls": [
+    "https://wiresift.com/ai-server-depreciation",
+    "https://hudson-labs.com/research/server-useful-life-amzn-meta"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "Packet identifies multiple SEC 10-K filings and dated changes, but fetched content is secondary summaries rather than actual filing bodies, so primary-filing evidence is incomplete. It does provide quantified disclosed effects, e.g. Microsoft/Amazon/Meta net income or operating income impacts. Asset scope is clear and it distinguishes accounting useful-life estimates from hardware life and non-cash/free-cash-flow effects."
+    },
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "Evidence identifies multiple filing-linked changes with dates/effective dates, but the fetched content is secondary analysis rather than full primary filing text, so primary-filing support is incomplete. Quantified disclosed effects are present. Asset scope is clear and packet distinguishes accounting useful-life estimates/depreciation from GPU physical life and cash/free-cash-flow effects."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-36",
+   "requests": [
+    {
+     "q": "IFRS 13 fair value latest financing transaction price adverse change measurement date before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "IPEV valuation guidelines calibration recent investment price material adverse event before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.rcgt.com/app/uploads/2021/07/alert_2021-07_insights-into-ifrs-13_p.pdf",
+     "http://www.icap.net.pk/volume-27-xxvii-2021-22/1-2-determination-of-fair-value-at-the-measurement-date-under-ifrs-13",
+     "https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf",
+     "https://annualreporting.info/ifrs-13-understand-inputs-to-valuation-techniques/",
+     "https://www.privateequityvaluation.com/FAQs"
+    ],
+    [
+     "https://thepeinvestor.com/2024/05/16/private-equity-valuation-guidelines/",
+     "https://www.pwc.com/jg/en/events/document/ipev-2022-update-summary-26-january-2023.pdf",
+     "https://www.moore.lt/moore-intelligence/valuation-guidelines-for-private-equity-and-venture-capital/",
+     "https://www.scalex-invest.com/blog/ipev-a-comprehensive-guide-for-venture-capital-and-private-equity",
+     "https://www.privateequityvaluation.com/FAQs"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.rcgt.com/app/uploads/2021/07/alert_2021-07_insights-into-ifrs-13_p.pdf",
+    "https://thepeinvestor.com/2024/05/16/private-equity-valuation-guidelines/"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "IFRS 13 measurement-date, exit-price, market-participant rule is quoted, but only from secondary Grant Thornton material, not primary IFRS/IASB text. Public valuation guidance on calibration/changed conditions is well covered via IPEV-related excerpts and detailed public summary. Packet clearly supports that recent financing price is only an input/starting point, not automatic fair value after adverse changes."
+    },
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "IFRS 13 measurement-date/market-participant definition is quoted, but only via secondary Grant Thornton/ICAP material, not primary IFRS text. Public IPEV/valuation guidance evidence covers calibration, changed conditions, and assessment at each measurement date. Packet clearly explains prior financing/recent investment price is not automatic fair value and must be reassessed after adverse events."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-41",
+   "requests": [
+    {
+     "q": "AI protein design benchmark wet lab validation primary study before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI protein design clinical human outcomes experimental validation stages before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.nature.com/articles/s41467-025-66526-w",
+     "https://www.biorxiv.org/content/10.1101/2024.08.01.606258v7.full",
+     "https://www.nature.com/articles/s43588-023-00440-3",
+     "https://www.techtimes.com/articles/325081/20260820/claude-runs-autonomous-protein-design-campaign-wet-lab-confirms-twice-industry-hit-rate.htm",
+     "https://www.biorxiv.org/content/10.1101/2025.07.29.667290v1"
+    ],
+    [
+     "https://link.springer.com/article/10.1186/s12967-026-07784-0",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11777668/",
+     "https://bioai-agents.com/en/blog/best-ai-protein-design-antibody-engineering-platforms-2026/",
+     "https://www.peptidejournal.org/research/de-novo-peptide-design-computer-to-clinical-trial",
+     "https://generatebiomedicines.com/media-center/from-computer-to-clinic-how-ai-unlocked-the-potential-of-gb-0669"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.nature.com/articles/s41467-025-66526-w",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11777668/"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet identifies Nature Communications de novo mini-protein stability benchmarking and GB-0669 AI-designed antibody clinical-stage evidence. It distinguishes wet-lab/high-throughput stability validation from first-in-human/Phase 1 PK-neutralization evidence. Measures support a cautious headline: benchmark/lab/biomarker progress, with no demonstrated patient outcomes."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet identifies at least two examples: 2025 Nature Communications de novo stability-design benchmarking with extensive wet-lab ΔG/proteolysis data, and GB-0669 AI-designed antibody reaching Phase 1/first-in-human evidence via snippets. Stages are distinguishable as lab/benchmark stability versus clinical PK/neutralization. Evidence supports restrained claims and flags no proven patient outcomes."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-42",
+   "requests": [
+    {
+     "q": "AI inference unit cost falling public data price per token before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI customer usage workload tokens spending growth unit cost total bill before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://capitalandcompute.net/blog/cost-per-token-over-time/",
+     "https://sesamedisk.com/ai-inference-cost-model-size-ai/",
+     "https://www.cloudzero.com/blog/inference-cost/",
+     "https://o-mega.ai/articles/the-true-cost-of-llm-inference-in-2026",
+     "https://diaryofatoken.com/en/article/ai-inference-cost-drops-43-silicon-data/"
+    ],
+    [
+     "https://ramp.com/blog/ai-token-cost-for-businesses",
+     "https://thenextweb.com/news/token-prices-fell-98-enterprise-ai-bills-tripled-now-the-industry-wants-a-standards-body-to-explain-why",
+     "https://www.arturmarkus.com/the-inference-cost-paradox-why-generative-ai-spending-surged-320-in-2025-despite-per-token-costs-dropping-1000x-and-what-it-means-for-your-ai-budget-in-2026/",
+     "https://www.artefact.com/blog/is-ai-really-getting-cheaper-the-token-cost-illusion/",
+     "https://optimumpartners.com/insight/ai-token-costs-and-how-they-might-wreck-your-budget/"
+    ]
+   ],
+   "selected_urls": [
+    "https://capitalandcompute.net/blog/cost-per-token-over-time/",
+    "https://ramp.com/blog/ai-token-cost-for-businesses"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Capital & Compute gives dated per-token reductions (e.g., GPT-4-class $60 in Mar. 2023 to ~$0.40 in 2026; a16z Nov. 2024 1000x GPT-3-class drop). Ramp, dated June 8 2026, reports Jan. 2025–Apr. 2026 business token usage +1001% and spend +497%. Scope is limited to Ramp-tracked/connected businesses, but total-spend direction is established there."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet gives dated unit-cost declines (e.g., GPT-4-class $60 in Mar 2023 to $0.40 in Jul 2026; a16z Nov 2024 GPT-3-class drop). Ramp June 8 2026 provides empirical Jan 2025–Apr 2026 token usage +1,001% and spend +497% for connected businesses, with scope/limits as aggregated Ramp customers."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-47",
+   "requests": [
+    {
+     "q": "AI research paper table figure benchmark subgroup denominator headline caveat before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI benchmark table numerical comparison sample size figure limitations before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/html/2609.25154v1",
+     "https://www.explainx.ai/blog/ai-benchmark-claims-fact-check-2026",
+     "https://www.aurorasre.ai/blog/ai-sre-accuracy-benchmarks",
+     "https://arxiv.org/html/2406.10366v1",
+     "https://zephior.com/insights/use-benchmarks-without-cherry-picking"
+    ],
+    [
+     "https://benchlm.ai/blog/posts/interpreting-llm-benchmark-results",
+     "https://www.adaline.ai/blog/evaluating-large-language-models",
+     "https://induwara.lk/tools/ai-llm-benchmark-comparison",
+     "https://reviewarticle.org/wiki/llm-benchmarks-decoded-developers/",
+     "https://the-decoder.com/most-llm-benchmarks-are-flawed-casting-doubt-on-ai-progress-metrics-study-finds/"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/html/2609.25154v1",
+    "https://benchlm.ai/blog/posts/interpreting-llm-benchmark-results"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "Packet gives one full primary research paper with many figure/table-like benchmark results and caveats; other fetched source is secondary, and search-only primary hits lack decisive table/figure evidence, so two-paper requirement is incomplete. Exact comparable stats are present (e.g., 97.84% vs 95.86%). Denominator/chart traps are explicit: available-case, native vs pooled, differing protocols."
+    },
+    {
+     "scores": [
+      0.5,
+      1,
+      1
+     ],
+     "reason": "Packet supplies one full primary research paper with many relevant figures/tables and numeric results, but no second fetched primary paper with usable table/figure data; other evidence is secondary or only search-excerpt level. It does include exact comparable statistics and explicit denominator/chart traps such as available-case denominators, macro vs pooled aggregation, and contextual non-leaderboard comparisons."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-48",
+   "requests": [
+    {
+     "q": "AI deployment customer measured financial savings cost ROI case study before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    },
+    {
+     "q": "AI production deployment customer operating result no ROI evidence before September 30 2026",
+     "depth": "deep",
+     "outputType": "searchResults",
+     "maxResults": 5
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.beri.net/article/agentic-ai-roi-171-percent-returns-enterprise-case-studies",
+     "https://barnraisersllc.com/2026/08/14/12-financial-roi-of-ai-case-studies-show-big-returns/",
+     "https://gptfy.ai/resources/case-studies/financial-services-sales",
+     "https://4spotconsulting.com/case-study-talentedge-312k-savings-hiring-automation/",
+     "https://bizkeyhub.com/the-real-roi-of-ai-what-klarna-jpmorgan-walmart-and-the-5-who-are-winning-can-teach-your-business/"
+    ],
+    [
+     "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/",
+     "https://www.healthcareitnews.com/news/mit-95-enterprise-ai-pilots-fail-deliver-measurable-roi",
+     "https://europeanpurpose.com/news/mckinsey-s-2025-ai-adoption-survey-88-of-organizations-use-ai-but-only-39-see-re",
+     "https://www.beri.net/article/72-percent-enterprise-ai-projects-fail-gartner-roi-reality-check",
+     "https://lucaberton.com/blog/ai-roi-beyond-proof-of-concept/"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.beri.net/article/agentic-ai-roi-171-percent-returns-enterprise-case-studies",
+    "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "Packet gives named deployed systems and economic outcomes (e.g., Klarna $60M, JPMorgan hours, General Mills $20M) with article dates. It also offers plausible deployed-but-no-ROI examples like Walmart, but only from a secondary roundup and not enough to bound public evidence robustly. Fortune/MIT supports distinguishing no measurable/undisclosed ROI from negative ROI."
+    },
+    {
+     "scores": [
+      1,
+      0.5,
+      0.5
+     ],
+     "reason": "Named deployed examples with dated economic outcomes are present (e.g., Klarna/JPMorgan in May 2026 source). The packet also offers deployed examples with only usage/adoption/scale outcomes, but it does not search or cite the broader public record enough to prove ROI is undisclosed. General MIT/Fortune evidence helps distinguish nonmeasurable impact from negative ROI only partially."
+    }
+   ]
+  }
+ ]
+}

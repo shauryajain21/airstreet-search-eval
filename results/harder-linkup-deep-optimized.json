@@ -1,0 +1,1402 @@
+{
+ "config": {
+  "depth": "deep",
+  "max_results": null,
+  "queries": "optimized"
+ },
+ "model": "gpt-5.5",
+ "records": [
+  {
+   "id": "ASC-HARD-05",
+   "requests": [
+    {
+     "q": "CoreWeave second quarter 2026 revenue operating income run rate published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "Nebius second quarter 2026 revenue annualized run rate operating loss published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+     "https://investors.coreweave.com/events-and-presentations/event-details/2026/CoreWeave-Second-Quarter-2026-Earnings-Conference-Call/default.aspx",
+     "https://investors.coreweave.com/financials/quarterly-results/default.aspx",
+     "https://investors.coreweave.com/financials/sec-filings/default.aspx",
+     "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Continues-to-Contract-New-Compute-Capacity-at-Higher-Prices/default.aspx",
+     "https://marketdaily.com/coreweave-q2-2026-earnings-revenue-doubles-ai-backlog-104-billion/",
+     "https://ecmsource.com/coreweave-crwv-q2-2026-earnings-revenue-doubles-104-billion-backlog-august-2026/",
+     "https://qz.com/coreweave-q2-2026-earnings-revenue-losses-interest-costs-081126",
+     "https://lycoristechnologies.com/blog/coreweave-q2-2026-earnings-backlog/",
+     "https://247wallst.com/investing/2026/08/11/live-will-coreweaves-q2-earnings-tonight-send-the-stock-higher/",
+     "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+     "https://investingengineer.com/coreweave-earnings-ai-infrastructure-boom/",
+     "https://beingguru.com/coreweaves-q2-2026-revenue-doubles-to-2-58-billion-on-ai-cloud-demand/",
+     "https://futurumgroup.com/insights/coreweave-q2-fy-2026-ai-demand-drives-pricing-and-capacity-growth/",
+     "https://sharesify.com/coreweave-q2-2026-ai-boom-faces-surging-infrastructure-bill/",
+     "https://investors.coreweave.com/events-and-presentations/event-details/2026/CoreWeave-Fourth-Quarter-2025-Earnings-Conference-Call/default.aspx",
+     "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-First-Quarter-2026-Results/",
+     "https://www.insiderfinance.io/news/coreweave-earnings-ahead-of-q2-report",
+     "https://huynguyenduc.com/article/coreweave-s-q2-2026-earnings-record-revenue-ai-growth-explained",
+     "https://3judyrealtor.com/article/coreweave-q2-2026-earnings-record-revenue-104b-backlog-what-s-next"
+    ],
+    [
+     "https://assets.nebius.com/assets/72a8c258-bbb7-4df7-ab9d-8698f6cb88fc/PR.pdf?cache-buster=2026-08-12T11%3A54%3A07.336Z",
+     "https://nebius.com/newsroom/nebius-reports-second-quarter-2026-financial-results",
+     "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_6k.htm",
+     "https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf?cache-buster=2026-08-12T11%3A54%3A46.695Z",
+     "https://nebius.com/newsroom/nebius-group-announces-date-of-second-quarter-2026-results-and-conference-call",
+     "https://nebius.com/investor-hub?_gl=1*apvfkm*_gcl_aw*R0NMLjE3NDMxNTYwOTMuRUFJYUlRb2JDaE1JZ0lIdHQ4S3NqQU1WYzZlREJ4MHItd2Z4RUFBWUFTQUFFZ0pzSmZEX0J3RQ..*_gcl_au*MTcxNDA5MTkzMy4xNzQxMTc2NzMz*_ga*MTQwMjU2Nzk4Ny4xNzQzNzcwNzg1*_ga_DHKV2ZED15*MTc0NTU5MzU2OS4yMS4wLjE3NDU1OTM1NjkuNjAuMC4xMjAyMzI3MDM4",
+     "https://www.investing.com/news/transcripts/earnings-call-transcript-nebius-beats-q2-2026-forecasts-shares-jump-165-93CH-4855076",
+     "https://www.fool.com/earnings/call-transcripts/2026/08/19/nebius-nbis-q2-2026-earnings-call-transcript/",
+     "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-q2-2026-earnings-165907370.html",
+     "https://ziven.io/earnings/calls/nbis/q2-fy2026",
+     "https://lycoristechnologies.com/blog/nebius-q2-2026-earnings-neocloud-rally/",
+     "https://quasa.io/media/nebius-hits-582m-revenue-but-q2-capex-reaches-5-7b",
+     "https://www.insiderfinance.io/news/nebius-q2-earnings-beat-stock-surges",
+     "https://eciks.org/20706-nebius-q2-2026-earnings-report",
+     "https://nebius.com/newsroom/nebius-reports-first-quarter-2026-financial-results",
+     "https://assets.nebius.com/assets/aa1bc2e6-df83-40cd-a6a2-95e7cda3d16c/Nebius%20SHL_Q1%202026.pdf?cache-buster=2026-05-13T14%3A00%3A35.352Z",
+     "https://nebius.com/newsroom/nebius-reports-second-quarter-financial-results-and-raises-arr-guidance-for-2025",
+     "https://www.insiderfinance.io/news/nebius-earnings-preview-q1-surge-financing-risk",
+     "https://assets.nebius.com/assets/85571bd2-050b-468c-954c-42e9d24e4cd2/Letter%20to%20Shareholders%20Q4%202025.pdf?cache-buster=2026-02-12T11%3A57%3A13.886Z",
+     "https://rivkin.com.au/analysis-education/nebius-group-nasdaqnbis/"
+    ]
+   ],
+   "selected_urls": [
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+    "https://assets.nebius.com/assets/72a8c258-bbb7-4df7-ab9d-8698f6cb88fc/PR.pdf?cache-buster=2026-08-12T11%3A54%3A07.336Z"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "Packet gives Q2 2026 reported revenue for CoreWeave ($2.575B) and Nebius ($582.3M), plus GAAP operating loss evidence for both and non-GAAP profitability metrics. Run-rate evidence is strong for Nebius (definition/date) but CoreWeave run-rate is only secondary/partly defined, with no fetched primary definition."
+    },
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "Primary releases give Q2 2026 revenue for CoreWeave ($2.575B) and Nebius ($582.3M), plus operating loss/profitability evidence for both (CoreWeave operating loss; Nebius loss from operations). Run-rate evidence is incomplete: Nebius ARR definition/date appears, and CoreWeave run-rate targets appear only in snippets/secondary excerpts without a clear company definition."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-06",
+   "requests": [
+    {
+     "q": "AI economy revenue methodology avoid double counting cloud models applications published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI spending end customer value chain revenue double counting methodology published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/html/2601.11196v1",
+     "https://www.federalreserve.gov/econres/ifdp/files/ifdp1375.pdf",
+     "https://www.brookings.edu/articles/counting-ai-a-blueprint-to-integrate-ai-investment-and-use-data-into-us-national-statistics/",
+     "https://www.idc.com/resource-center/blog/resource-region/3_223/page/13/",
+     "https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics",
+     "https://arxiv.org/abs/2606.30583",
+     "https://www.exponentialview.co/p/the-state-of-the-ai-economy",
+     "https://newspaceeconomy.ca/2026/05/18/measuring-ai-in-the-u-s-economy/",
+     "https://govfacts.org/government/federal/agencies/commerce/how-the-government-tracks-americas-digital-economy/",
+     "https://siai.org/memo/2026/01/202601287128",
+     "https://caalley.com/news-updates/international-news/ai-is-changing-infrastructure-economics-and-accounting-models",
+     "https://eu.36kr.com/zh/p/3784816107789320",
+     "https://axis-intelligence.com/ai-infrastructure-investment-market-2025-2030/",
+     "https://fourweekmba.com/platform-tax-business-model/",
+     "https://newmarketpitch.com/blogs/news/ai-infrastructure-business-model",
+     "https://getaibrief.com/story/coreweave-ai-factories-2b-nvidia-openai-anthropic-perplexity",
+     "https://getaibrief.com/story/vanguard-agentic-ai-investment-unlock",
+     "https://www.mordorintelligence.com/industry-reports/artificial-intelligence-as-a-service-market",
+     "https://www.marketresearchintellect.com/product/artificial-intelligence-software-system-market/",
+     "https://www.researchandmarkets.com/reports/6062519/ai-api-market-size-share-and-trends-analysis"
+    ],
+    [
+     "https://www.exponentialview.co/p/the-state-of-the-ai-economy",
+     "https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf",
+     "https://allweatherfinance.com/ai-quarterly-revenue-surpasses-depreciation-costs-for-the-first-time-has-the-trillion-dollar-computing-power-gamble-entered-the-return-validation-phase/",
+     "https://equipmentfinancenews.com/news/lender-operations/ai-sales-start-to-justify-data-center-spending-boom-report-says/",
+     "https://www.edwardconard.com/macro-roundup/the-state-of-the-aieconomy/",
+     "https://www.brookings.edu/articles/counting-ai-a-blueprint-to-integrate-ai-investment-and-use-data-into-us-national-statistics/",
+     "https://thelatent.co/data/demand/ai-exposed-platform-capex-vs-compute-supplier-revenue",
+     "https://iipmr.com/blogs/how-to-build-defensible-market-size-estimates-analyst-guide",
+     "https://arxiv.org/pdf/2505.18687",
+     "https://arxiv.org/abs/2509.10220",
+     "https://arxiv.org/abs/2307.16787",
+     "https://www.sec.gov/files/sec-iac-artificial-intelligence-recommendation-111825.pdf",
+     "https://www.uncommoninsights.com.au/ai-optimization/ai-roi-calculation",
+     "https://ipogenie.ai/blog/quantifying-the-rwa-market-methodology-behind-the-headline-growth-estimates/",
+     "https://www.l40.com/insights/ai-valuation-multiples",
+     "https://zavient.com/insights/software-saas.html",
+     "https://pingax.com/ai-data-analytics-market-size/",
+     "https://www.kbvresearch.com/ai-in-revenue-cycle-management-market/",
+     "https://www.marketresearchintellect.com/product/artificial-intelligence-software-system-market/",
+     "https://aigrowthagent.co/articles/measurable-roi-ai-search-visibility/"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/html/2601.11196v1",
+    "https://www.exponentialview.co/p/the-state-of-the-ai-economy"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "The packet includes a public Exponential View methodology excerpt saying report end-customer dollars and not count Anthropic’s cloud payment to Amazon, plus arXiv 2026 text mapping AI labs, cloud providers and downstream AI-software customers. These identify removed intercompany cloud/API flows and support a hypothetical chain (customer→app vendor→lab→cloud) showing gross vs deduplicated spend."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Exponential View excerpt states a public deduplicated demand-side methodology: report end-customer dollars, track but remove supply-chain flows, with $1 Anthropic/$0.50 Amazon example. Arxiv gives relationships: labs buy cloud, sell APIs/SaaS to app developers/customers. Combined evidence supports removing app-to-lab and lab-to-cloud intercompany spend and constructing a transparent hypothetical."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-11",
+   "requests": [
+    {
+     "q": "agent reinforcement learning training CPU memory environment resource measured configuration published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "agentic RL rollout environment CPU bottleneck memory experimental hardware published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/pdf/2206.10558",
+     "https://arxiv.org/abs/2206.10558",
+     "https://ar5iv.labs.arxiv.org/html/2206.10558",
+     "https://arxiv.org/abs/2206.10558v2",
+     "https://arxiv.org/abs/2206.10558v1",
+     "https://arxiv.org/abs/2609.19936",
+     "https://arxiv.org/pdf/2305.07440",
+     "https://arxiv.org/search/cs?query=Liang&searchtype=author",
+     "https://arxiv.org/pdf/1801.03138",
+     "https://sail.sea.com/research/publications/16",
+     "https://arxiv.org/html/2503.01450",
+     "https://arxiv.org/abs/2609.34422",
+     "https://export.arxiv.org/abs/2605.23067",
+     "https://arxiv.org/html/2509.25911v1",
+     "https://arxiv.org/html/2605.18592v2",
+     "https://arxiv.org/abs/2508.03680",
+     "https://arxiv.org/html/2608.07371v1",
+     "https://arxiv.org/html/2508.00046v1",
+     "https://arxiv.org/html/2502.10550v2",
+     "https://arxiv.org/html/2505.15040v1"
+    ],
+    [
+     "https://arxiv.org/abs/2510.05943",
+     "https://arxiv.org/abs/2601.10079",
+     "https://arxiv.org/abs/2607.07508",
+     "https://shadowgraph.io/papers/arxiv-2512.22560",
+     "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+     "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+     "https://arxiv.org/html/2608.06025v1",
+     "https://www.alphaxiv.org/overview/2605.30313",
+     "https://www.spheron.network/blog/rl-environments-gpu-cloud-gymnasium-prime-intellect-verifiers/",
+     "https://blog.guanghan.ai/post/260208_rl_infra/",
+     "https://www.reddit.com/r/AIProgrammingHardware/comments/1tswa6n/the_cpu_renaissance_in_agentic_ai_orchestration/",
+     "https://www.zach.be/p/agentic-ai-is-about-more-than-cpus",
+     "https://taholabs.com/insights/the-agentic-cpu-tax",
+     "https://baeseokjae.github.io/posts/nvidia-vera-cpu-agentic-2026/",
+     "https://www.ctol.digital/news/agentic-ai-cpu-bottleneck-210b-tam/",
+     "https://www.hackster.io/news/agentic-ai-is-coming-for-your-cpus-9a9bc3785073",
+     "https://radiant.co/blog/nvidia-vera-cpu-comprehensive-overview",
+     "https://arxiv.org/search/cs?query=Abdelfattah%2C+M+S&searchtype=author",
+     "https://newsletter.semianalysis.com/p/scaling-reinforcement-learning-environments-reward-hacking-agents-scaling-data",
+     "https://arxiv.org/search/cs?query=Doan%2C+D+T&searchtype=author"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/pdf/2206.10558",
+    "https://arxiv.org/abs/2510.05943"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "EnvPool (arXiv/NeurIPS 2022) is a primary technical RL-agent training infrastructure source. It reports measured CPU configurations (12-core laptop, 32-core workstation, DGX-A100 with 256 AMD EPYC CPU cores/8 NUMA nodes) and throughput benchmarks. Its controlled simulation/training experiments and dated arXiv record separate empirical findings from broader CPU-demand forecasts in snippets."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "EnvPool (arXiv/NeurIPS 2022) is a primary RL infrastructure paper. It reports measured CPU setups (12-core laptop, 32-core workstation, DGX-A100 with 256 AMD EPYC cores/8 NUMA) and throughput tables over 50K iterations. The experimental setup clearly distinguishes measured environment-execution results from later industry forecast/search-result claims."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-12",
+   "requests": [
+    {
+     "q": "neocloud revenue active power contracted megawatts quarterly results 2026 published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI cloud annual revenue per MW billable active power capacity definitions published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/",
+     "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
+     "https://scult.in/blog/neoclouds-gpu-cloud-challengers-to-the-hyperscalers",
+     "https://paperglass.co/topic/neocloud/pipeline",
+     "https://tenten.co/learning/coreweave-neocloud-financing-risk/",
+     "https://sergeycyw.substack.com/p/neo-clouds-ai-infrastructures-fastest",
+     "https://alatirok.com/neocloud-economics-2026/",
+     "https://247wallst.com/investing/2026/09/23/the-one-neocloud-i-keep-buying-again-and-again-has-a-secret/",
+     "https://www.moduledge.com/blog/neocloud",
+     "https://www.appeconomyinsights.com/p/neocloud-economics",
+     "https://ziven.io/ai-infrastructure/hyperscaler-deals?company=HUT",
+     "https://ziven.io/ai-infrastructure/hyperscaler-deals",
+     "https://www.fierce-network.com/cloud/indosat-ooredoo-hutchinson-bags-1b-contracted-neocloud-revenue",
+     "https://www.toobit.com/en-US/news/generative-ai-demand-outpaces-neocloud-capacity-expansion",
+     "https://michigan.newsnetmedia.com/story/296793/hyperscale-data-executes-first-master-services-agreement-with-california-based-neocloud-provider-for-20-megawatts-of-critical-ai-compute-capacity-at-michigan-data-center-campus-expected-to-be-worth-ap/",
+     "https://sherwood.news/markets/nebius-q4-earnings-neocloud-ai-data-center-boom-bubble/",
+     "https://datastorage.com/articles/top-10-neocloud-providers-of-2026-ranked/",
+     "https://x.com/MelvinInvests/status/2090890748191469979",
+     "https://marketwise.com/investing/neocloud-stocks-funding-coreweave-nebius-iren-terawulf/",
+     "https://www.techinvestments.io/p/neocloud-economics-nebius-and-coreweave"
+    ],
+    [
+     "https://www.sec.gov/Archives/edgar/data/1144879/000114487923000216/cfosummary10122023.htm",
+     "https://currentlogic.substack.com/p/datacenter-power-costs-and-roadmaps",
+     "https://www.nextbigfuture.com/2026/05/economics-of-a-megawatt-of-ai-data-center.html",
+     "https://tomtunguz.com/revenue-per-megawatt/",
+     "https://www.aitooldiscovery.com/ai-infra/how-do-data-centers-make-money",
+     "https://www.sec.gov/Archives/edgar/data/1839341/000162828025008312/ex991-coreweavepressrelease.htm",
+     "https://docs.outliers.fund/computing/the-neocloud-revolution-inside-the-usd50b-race-to-power-ai",
+     "https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out",
+     "https://www.wboc.com/online_features/press_releases/aib-data-centers-reports-570-mw-of-identified-ai-hpc-capacity-potential-in-second-quarter/article_262fe824-7a49-54e8-ad23-ab76470baae7.html",
+     "https://www.sec.gov/Archives/edgar/data/1964789/000155837025006845/hut-20250331x10q.htm",
+     "https://www.sec.gov/Archives/edgar/data/64463/000164117225024045/form10-q.htm",
+     "https://www.sec.gov/Archives/edgar/data/2065779/000182912626004062/dboralarcacq1_ex99-1.htm",
+     "https://www.fool.com/research/ai-companies-spending-on-data-centers/",
+     "https://pado.co/news-events/maximizing-compute-per-mw",
+     "https://www.metavert.io/ai-datacenters-vs-ai-factories",
+     "https://axis-intelligence.com/ai-data-center-cost-per-mw/",
+     "https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid",
+     "https://www.stromfee.cloud/news/datacenter/r13-coreweave-lancaster-en.html",
+     "https://coindesk.cc/hyperscale-data-ai-transition-ends-bitcoin-mining-for-1-2b-ai-deal-109034.html",
+     "https://qai.io/finance/boards/state-of-ai-cloud"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/",
+    "https://www.sec.gov/Archives/edgar/data/1144879/000114487923000216/cfosummary10122023.htm"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "DCD dated Aug. 14, 2026 reports CoreWeave Q2 2026 revenue and capacity in the same company context. It distinguishes active/live power from contracted power. It gives period/scope details—Q2 revenue, active capacity reaching 1.5GW across 51 active data centers after large in-quarter additions, and 4.2GW contracted—enough to reject a clean annual revenue/MW ratio."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "DCD dated Aug. 14, 2026 reports same-company Q2 2026 revenues and capacity for CoreWeave/Nebius. It distinguishes CoreWeave active/live power from contracted power, with scope across active data centers, and gives the quarterly period plus intra-quarter capacity additions needed to reject a simple annual revenue/MW ratio as misaligned."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-17",
+   "requests": [
+    {
+     "q": "AI science prospective experimental validation designed molecules primary paper published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI scientific discovery wet lab validation tested candidates denominator replication published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC13457561/",
+     "https://www.nature.com/articles/s41587-024-02526-3",
+     "https://pubs.acs.org/doi/10.1021/acs.jcim.0c01496",
+     "https://pubs.acs.org/doi/10.1021/acschemneuro.5c00861",
+     "https://www.sciencedirect.com/science/article/abs/pii/S0959440X23000490",
+     "https://www.sciencedirect.com/science/article/pii/S1359644621002531",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC13031155/",
+     "https://pharmacophorejournal.com/article/generative-ai-for-de-novo-drug-design-a-systematic-review-sazaha41ngf1qn1?html",
+     "https://link.springer.com/chapter/10.1007/978-3-031-98022-0_6",
+     "https://www.prnewswire.com/apac/news-releases/novel-molecules-from-generative-ai-to-phase-ii-first-novel-tnik-inhibitors-for-fibrotic-diseases-discovered-and-designed-using-generative-ai-302085115.html",
+     "https://www.eurekalert.org/news-releases/806724",
+     "https://www.eurasiareview.com/03092019-novel-molecules-designed-by-artificial-intelligence-in-21-days-are-validated-in-mice/",
+     "https://www.drugtargetreview.com/home/from-leaderboards-to-lab-notebooks-ai-designs-reach-preclinical-testing/2135283.article",
+     "https://www.technologynetworks.com/biopharma/news/ai-outperforms-nature-at-designing-proteins-to-edit-the-genome-405387",
+     "https://phys.org/news/2026-04-ai-proteins-built-specific-compounds.html",
+     "https://thewellsourced.com/articles/ai-peptide-science-2026",
+     "https://synbio-tech.com/a-next-generation-ai-molecular-validation-engine",
+     "https://brightspec.com/articles/prediction-to-proof-validating-ai-designed-molecules",
+     "https://www.pharmafocusasia.com/information-technology/beyond-human-intuition-ai-driven-platforms",
+     "https://www.chemeurope.com/en/news/1187952/scientists-design-molecules-backward-to-speed-up-discovery.html"
+    ],
+    [
+     "https://arxiv.org/html/2607.04508v1",
+     "https://csnsf.org/the-virtual-lab-of-ai-agents-designs-new-sars-cov-2-nanobodies/",
+     "https://pubmed.ncbi.nlm.nih.gov/41522341/",
+     "https://www.ijbs.com/v22p0618.htm",
+     "https://www.cell.com/cell/fulltext/S0092-8674(25)00973-0",
+     "https://www.nature.com/articles/s41598-025-98979-w",
+     "https://www.nature.com/articles/s41587-026-03020-8",
+     "https://www.nature.com/articles/s41467-025-57828-0",
+     "https://www.nature.com/articles/s41598-026-44506-4",
+     "https://arxiv.org/abs/2602.13398",
+     "https://www.mosaicbio.com/mosaic-biosciences-launches-sortai-a-wet-lab-validation-service-built-for-ai-designed-antibody-libraries/",
+     "https://science-technology.news-articles.net/content/2026/08/19/absci-s-closed-loop-ai-and-wet-lab-validation-synergy.html",
+     "http://scis.scichina.com/en/2025/170105-supplementary.pdf",
+     "https://partnerships.nature.com/resources/blog/inside-the-rise-of-self-driving-labs-and-ai-led-scientific-discovery/",
+     "https://aicell.io/post/newsletter-2026-07-31/",
+     "https://aicell.io/post/newsletter-2026-07-10/",
+     "https://explainx.ai/blog/google-deepmind-co-scientist-real-world-labs-august-2026",
+     "https://ailurus.bio/post/the-virtual-lab-ai-teams-driving-scientific-discovery",
+     "https://www.emergence.ai/blog/g4effjwc6slvs42rkpxu77jtrm9ibo",
+     "https://towardsdatascience.com/a-research-lab-made-entirely-of-virtual-llm-agents-developed-molecules-that-block-a-virus-as-tested-in-real-life/"
+    ]
+   ],
+   "selected_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13457561/",
+    "https://arxiv.org/html/2607.04508v1"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      0.5
+     ],
+     "reason": "Packet identifies primary AI-science studies with prospective wet-lab validation and clear denominators/selection examples (e.g., 15 KRAS molecules/2 promising; 6 DDR1/4 active/2 cellular; 92 nanobody designs). It separates computational design and lab testing, but independent replication status is not affirmatively sourced; it can only be labeled unresolved."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      0.5
+     ],
+     "reason": "Primary journal snippets identify AI-designed molecules/nanobodies with prospective wet-lab testing (e.g., 15 KRAS molecules; 92 nanobody designs; DDR1 six designs). Denominators and successes are reported. Validation is clear, but independent replication is not documented by primary/full-text evidence; only secondary/ambiguous mentions, so replication status remains unresolved."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-18",
+   "requests": [
+    {
+     "q": "agent benchmark ranking inference cost budget constraint primary evaluation published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI agent benchmark accuracy cost Pareto frontier model comparison published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/abs/2608.05519",
+     "https://arxiv.org/html/2608.05519v1",
+     "https://arxiv.org/abs/2608.00805",
+     "https://arxiv.org/html/2606.00198",
+     "https://arxiv.org/html/2606.00198v1",
+     "https://arxiv.org/html/2511.02734v1",
+     "https://arxiv.org/html/2607.15263",
+     "https://arxiv.org/html/2603.08877v1",
+     "https://arxiv.org/abs/2608.09282",
+     "https://www.researchgate.net/publication/405474946_Budget-Aware_LLM_Agents_Evaluation_Failure_Modes_and_Trainable_Cost_Control",
+     "https://arxiv.org/abs/2607.27155",
+     "https://arxiv.org/abs/2605.22855",
+     "https://arxiv.org/html/2607.20468v1",
+     "https://arxiv.org/html/2607.12338",
+     "https://agentry.news/agentslabench-resource-aware-evaluation-framework-for-autonomous-agents",
+     "https://bittide.aicompass.dev/article/58d91308-74d0-422d-9888-bb1710086879",
+     "https://pith.science/paper/2608.05519",
+     "https://bittide.aicompass.dev/article/f378caf4-cd7f-4b4e-928e-e110e5563be7",
+     "https://autolearningagents.com/ai-agent-benchmarks/cost-benchmarks.php",
+     "https://www.themoonlight.io/en/review/traveleval-a-comprehensive-benchmarking-framework-for-evaluating-llm-powered-travel-planning-agents"
+    ],
+    [
+     "https://arxiv.org/html/2407.01502v1",
+     "https://www.alphaxiv.org/abs/2407.01502",
+     "https://arxiv.org/abs/2609.24971",
+     "https://arxiv.org/abs/2603.22651",
+     "https://arxiv.org/html/2606.12344v1",
+     "https://www.alphaxiv.org/abs/2606.12344",
+     "https://arxiv.org/html/2511.23455v2",
+     "https://arxiv.org/html/2604.26102v2",
+     "https://cognition.com/blog/swe-2",
+     "https://arxiv.org/abs/2606.12821",
+     "https://export.arxiv.org/abs/2606.07074",
+     "https://arxiv.org/abs/2603.02766",
+     "https://agentpatterns.ai/token-engineering/cost-quality-pareto-measurement/",
+     "https://www.alphaxiv.org/abs/2607.swe-1-7",
+     "https://cobusgreyling.substack.com/p/the-pareto-frontier-for-ai-agents",
+     "https://cobusgreyling.substack.com/p/ai-agents-that-matter",
+     "https://cobusgreyling.medium.com/ai-agents-optimising-cost-performance-a464aa635742",
+     "https://aiagentsquare.com/blog/ai-agent-benchmarks-2026",
+     "https://simmering.dev/blog/agent-benchmarks/",
+     "https://jobsbyculture.com/blog/llm-evaluation-guide-2026"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/abs/2608.05519",
+    "https://arxiv.org/html/2407.01502v1"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet includes primary cost-aware sources: EcoAgent-Bench arXiv abstract and full AI Agents That Matter text. The latter gives HumanEval/HotPotQA cost-controlled comparisons, e.g., escalation strictly improves accuracy while costing less than half of LDB, and describes runs, task counts, retry/escalation policies, cost metrics, and when cost-limited selection changes."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet includes primary sources for cost-aware benchmarking: EcoAgent-Bench with priced actions/budgets and AI Agents That Matter cost-controlled HumanEval/HotPotQA. It provides comparable pairs such as escalation vs LDB or warming vs LATS with relative cost and accuracy outcomes. It also gives sampling/protocol details: 164 HumanEval tasks, five runs, retries/escalation, Pareto-cost framing."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-23",
+   "requests": [
+    {
+     "q": "humanoid robot production deployment vendor customer account pilot autonomy published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "robot customer factory deployment paid autonomous teleoperation pilot evidence published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+     "https://apptronik.com/news-collection/apptronik-and-mercedes-benz-enter-commercial-agreement",
+     "https://gxo.com/news_article/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics/",
+     "https://www.agilityrobotics.com/content/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics",
+     "https://www.agilityrobotics.com/content/gxo-conducting-industry-leading-pilot-of-human-centric-robot",
+     "https://www.prnewswire.com/news-releases/apptronik-and-mercedes-benz-enter-commercial-agreement-that-will-pilot-apptroniks-apollo-humanoid-robot-in-mercedes-benz-manufacturing-facilities-302089972.html",
+     "https://spinoff.nasa.gov/Humanoid_Robots_Assist_Assembly_Lines",
+     "https://axis-intelligence.com/humanoid-robot-deployment-tracker/",
+     "https://techniahqservice.com/robotics-news/humanoid-factory-deployments",
+     "https://humanoidapplications.com/deployments/",
+     "https://physicalaiguide.com/guides/humanoid-robots-2026-availability",
+     "https://techcrawlr.com/figure-ai-deploys-commercial-humanoid-fleet-at-bmw-spartanburg-manufacturing-plant/",
+     "https://jpduua.org/article/bmw-s-revolutionary-step-figure-ai-humanoids-take-over-spartanburg-plant",
+     "https://neuronad.com/figure-02-industrial-robotics-with-bmw-collaboration/",
+     "https://www.useluminix.com/reports/company-overviews/figure-robotics-company-overview-may-2026",
+     "https://www.jaredwatkins.com/research/robotics/humanoid/us-companies/agility-robotics/",
+     "https://www.therobotreport.com/gxo-logistics-putting-digit-humanoid-to-test/",
+     "https://www.verdict.co.uk/mercedes-benz-partners-with-apptronik-to-pilot-humanoid-robots/",
+     "https://que.com/humanoid-robots-pilot-to-platform-2026/",
+     "https://axis-intelligence.com/humanoid-robots-deployment-2026-case-studies/"
+    ],
+    [
+     "https://www.agilityrobotics.com/content/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics",
+     "https://www.agilityrobotics.com/content/gxo-conducting-industry-leading-pilot-of-human-centric-robot",
+     "https://www.prnewswire.com/news-releases/apptronik-and-mercedes-benz-enter-commercial-agreement-that-will-pilot-apptroniks-apollo-humanoid-robot-in-mercedes-benz-manufacturing-facilities-302089972.html",
+     "https://humanoidroboticstechnology.com/industry-news/figure-humanoid-robots-contributed-to-the-production-of-30000-cars-at-bmw/",
+     "https://www.manufacturingdive.com/news/bmw-completes-sucessful-pilot-humanoid-robots-spartanburg-plant-figure-02/723819/",
+     "https://techcrawlr.com/figure-ai-deploys-commercial-humanoid-fleet-at-bmw-spartanburg-manufacturing-plant/",
+     "https://www.automotiveworld.com/news/bmw-group-brings-figure-03-humanoid-to-spartanburg/",
+     "https://techcrunch.com/2024/04/11/european-car-manufacturer-will-pilot-sanctuary-ais-humanoid-robot/",
+     "https://www.neura.market/directories/chatgpt/blog/magna-and-sanctuary-ai-unite-to-deploy-humanoid-robots-in-manufacturing-plants",
+     "https://roboticsandautomationnews.com/2026/02/20/toyota-canada-to-deploy-agility-robotics-humanoid-digit-in-manufacturing-operations/99011/",
+     "https://factoryandhandlingsolutions.co.uk/gxo-carries-out-a-pioneering-pilot-test-with-a-human-centered-robot/",
+     "https://www.smartbrainsai.com/apptroniks-apollo-humanoid-starts-working-mercedes-benzs-berlin-factory-floor/",
+     "https://www.maginative.com/article/mercedes-benz-pilots-apptroniks-apollo-humanoid-robot-in-manufacturing-facilities/",
+     "https://www.wardsauto.com/news/archive-auto-bmw-autonomous-humanoid-robots-spartanburg-factory-figure-bots/705680/",
+     "https://www.bmwblog.com/2026/03/03/bmw-hexagon-aeon-humanoid-robot-leipzig-pilot/",
+     "https://digitalmarketreports.com/news/70982/bmw-deploys-humanoid-aeon-robots-in-european-car-production/",
+     "https://techniahqservice.com/robotics-news/humanoid-factory-deployments",
+     "https://www.curionic.net/2026/07/figure-vs-tesla-optimus-vs-1x-neo-autonomy-gap-2026.html",
+     "https://aiwiki.ai/wiki/sanctuary_ai_phoenix",
+     "https://www.jaredwatkins.com/research/robotics/humanoid/us-companies/agility-robotics/"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+    "https://www.agilityrobotics.com/content/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Agility’s June 27, 2024 vendor release gives a concrete Digit deployment at GXO/SPANX, with tasks and RaaS terms. GXO’s own result excerpt covers the same agreement and quotes GXO’s automation chief. Status is distinguishable: 2023 proof-of-concept pilot followed by multi-year commercial/RaaS live-warehouse deployment; autonomy/teleoperation limits can be labeled unresolved."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Vendor-hosted Agility release gives concrete Digit deployment at GXO/SPANX with task, date, RaaS terms, and pilot-to-live status. GXO official search result corroborates same deployment/customer account. Evidence distinguishes 2023 pilot from 2024 commercial RaaS/live warehouse work; autonomy/teleoperation is not fully detailed and can be labeled unresolved."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-24",
+   "requests": [
+    {
+     "q": "AI healthcare product retrospective prospective validation regulatory authorization published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI diagnostic product clinical trial patient outcomes regulatory approval evidence published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.nature.com/articles/s41591-025-03933-y",
+     "https://www.nature.com/articles/s41746-026-02353-7_reference.pdf",
+     "https://www.nature.com/articles/s41746-024-01270-x",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12595527/",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12730494/",
+     "https://www.nature.com/articles/s41746-020-00324-0",
+     "https://www.nature.com/articles/s41746-025-01674-3",
+     "https://www.nature.com/articles/s41746-025-02216-7",
+     "https://www.nature.com/articles/s41746-024-01080-1",
+     "https://www.nature.com/articles/s41746-025-02052-9",
+     "https://www.medrxiv.org/content/10.1101/2022.12.07.22283216v3",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12264609/",
+     "https://www.fda.gov/news-events/press-announcements/fda-issues-comprehensive-draft-guidance-developers-artificial-intelligence-enabled-medical-devices",
+     "https://www.fda.gov/news-events/fda-voices/real-world-evidence-advancing-regulatory-decision-making-medical-devices",
+     "https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device",
+     "https://www.fda.gov/media/145022/download",
+     "https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-frequently-asked-questions-faqs",
+     "https://www.clinicaltrialvanguard.com/opinion/fda-has-authorized-1500-ai-medical-devices-the-evidence-for-most-of-them-is-still-catching-up/",
+     "https://vantagebiomed.com/articles/ai-validation-gap-2026",
+     "https://recovry.ai/news/from-pivotal-trial-to-fda-submission"
+    ],
+    [
+     "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00376-7/fulltext",
+     "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00047-5/fulltext",
+     "https://ai.nejm.org/doi/full/10.1056/AIe2400881",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11184206",
+     "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00115-8/fulltext",
+     "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(26)00163-9/fulltext",
+     "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00053-1/fulltext",
+     "https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device",
+     "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
+     "https://www.fda.gov/news-events/speeches-fda-officials/remarks-fda-commissioner-robert-m-califf-coalition-health-ai-chai-03052024",
+     "https://www.fda.gov/news-events/remarks-commissioner-robert-califf-airis-workshop-02262024",
+     "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials",
+     "https://www.thelancet.com/pdfs/journals/landig/PIIS2589-7500(24)00047-5.pdf",
+     "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00014-2/fulltext",
+     "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00127-6/fulltext",
+     "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00132-1/fulltext",
+     "https://www.fda.gov/science-research/science-and-research-special-topics",
+     "https://www.fda.gov/news-events/remarks-commissioner-califf-2024-fda-regulatory-education-industry-annual-conference-redi-05292024",
+     "https://www.fda.gov/news-events/fda-voices/fda-focuses-closing-clinical-trial-reporting-gap-research-integrity",
+     "https://www.fda.gov/news-events/press-announcements/fda-reminds-more-2200-sponsors-and-researchers-disclose-trial-results"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.nature.com/articles/s41591-025-03933-y",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11184206"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet identifies TriVerity and SEPSIS-SHIELD: prospective 22-ED validation with 1,222 valid results, adjudicated infection and ICU-level-care endpoints, AUROC/sensitivity/specificity. Regulatory status is precise: FDA clearance obtained 10 Jan 2025, K241676. Outcomes clearly separate diagnostic/prognostic accuracy and potential antibiotic-use utility from unresolved patient benefit, noting interventional testing still needed."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet names TriVerity and provides SEPSIS-SHIELD prospective multicenter validation design, endpoints and AUROC/sensitivity/specificity. It states FDA clearance on 10 Jan 2025 with K241676. It distinguishes diagnostic/prognostic performance and exploratory antibiotic-use utility from patient benefit, explicitly noting interventional testing is still needed to prove actionability and clinical benefit."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-29",
+   "requests": [
+    {
+     "q": "AI data center project delayed power grid permitting official record published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "data center delayed electricity connection regulator developer timeline published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval",
+     "https://savrn.com/data-center-grid-operator-watchlist",
+     "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
+     "https://mgrid.org/2026/08/03/texas-freezes-new-data-center-grid-approvals-until-puct-and-ercot-audit-a-474-gw-queue/",
+     "https://data-central.co.uk/ercot-delays-data-centre-queue-classifications/",
+     "https://jain.com/ferc-data-center-interconnection-delays-ai-grid-chokepoint/",
+     "https://www.useluminix.com/reports/industry-analysis/understanding-dylan-patel-of-semianalyis-deep-dive-on-ai-compute-scaling-bottlenecks/source/5",
+     "https://www.electricchoice.com/datacenters/interconnection-queue/",
+     "https://www.datacenterfrontier.com/energy/article/55363740/the-gigawatt-bottleneck-power-constraints-define-ai-data-center-growth",
+     "https://www.xuna.ai/pulse/power-grid-lockdown-texas-halts-new-data-centers-as-governor-orders-audits",
+     "https://utilitiescurated.com/infrastructure-and-technology/texas-pauses-data-center-expansion-to-protect-power-grid/",
+     "https://energyedge.com/fercs-large-load-interconnection-push-sparks-state-resistance-amid-soaring-data-center-demand/",
+     "https://getaibrief.com/story/ai-data-centers-fast-tracked-grid-connections",
+     "https://convina.com/pulse/ferc-just-gave-ai-data-centers-a-fast-lane-to-the-grid/",
+     "https://eepower.com/news/ferc-modernize-grid-interconnection-rules-for-ai-data-centers/",
+     "https://jain.com/ferc-pushes-grid-operators-overhaul-data-center-power-rules/",
+     "https://jain.com/ferc-fast-track-grid-interconnection-ai-data-centers/",
+     "https://shepherdstrategies.com/ferc-accelerates-data-center-grid-integration/",
+     "https://www.webpronews.com/ferc-opens-fast-lane-for-ai-data-centers-as-power-grid-strains-under-surging-demand/",
+     "https://www.geniusfirms.com/news/us-grid-rules-shift-for-ai-data-center-boom/"
+    ],
+    [
+     "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
+     "https://www.edie.net/ofgem-targets-speculative-data-centres-to-unlock-grid-capacity/",
+     "https://jain.com/ferc-data-center-interconnection-delays-ai-grid-chokepoint/",
+     "https://broadbandbreakfast.com/ferc-targets-data-center-interconnection-delays/",
+     "https://www.datacenterdynamics.com/en/news/neso-reveals-results-of-uks-grid-connection-reforms/",
+     "https://www.oneidadispatch.com/2026/06/18/federal-regulators-speed-up-grid-connections/",
+     "https://www.itpro.com/infrastructure/data-centres/ofgem-mulls-fees-for-data-center-grid-connection-requests",
+     "https://www.techerati.com/news-hub/data-centre-grid-connections-could-be-reshaped-by-ofgem/",
+     "https://stockmark.it/ofgem-warns-on-grid-squeeze-after-heathrow-data-centre-approved/",
+     "https://knowledge.energyinst.org/new-energy-world/article?id=160406",
+     "https://swikblog.com/ofgem-data-centre-crackdown/",
+     "https://www.solarpowerportal.co.uk/solar-projects/ofgem-disappointed-but-approves-grid-connection-process-delay",
+     "https://mgrid.org/2024/10/29/data-center-grid-interconnection-delays-decade/",
+     "https://www.bclplaw.com/en-US/events-insights-news/how-to-price-grid-uncertainty-in-energy-contracts.html",
+     "https://www.latitudemedia.com/news/up-to-half-of-the-worlds-data-centers-may-be-delayed-this-year/",
+     "https://okenergytoday.com/2026/02/data-center-operators-run-into-delays-due-to-power-demands-and-opposition/",
+     "https://www.bvp.com/atlas/roadmap-the-ai-data-center-stack",
+     "https://www.independent.co.uk/news/business/ofgem-scraps-yearslong-queue-of-zombie-grid-projects-b2733430.html",
+     "https://www.useluminix.com/reports/industry-analysis/data-centers-in-space/source/1",
+     "https://www.montereyherald.com/2026/06/18/federal-regulators-speed-up-grid-connections/"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval",
+    "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      0,
+      0.5,
+      0.5
+     ],
+     "reason": "Packet lacks a named AI data-center project with an original announced timeline. It provides aggregate PJM delay data and a dated March 31 FERC filing reference for Constellation/TMI transmission deliverability tied to Microsoft, but that is a power-supply project, not a data-center timeline change. Regulator/grid corroboration is only indirect via PJM/Ofgem reporting."
+    },
+    {
+     "scores": [
+      0,
+      0.5,
+      0.5
+     ],
+     "reason": "Packet gives broad grid/permitting delay evidence (PJM data, FERC docket mention, Ofgem consultation) but does not identify a public AI data-center project with its original announced timeline. It has dated power/permitting constraints, including TMI/Microsoft-adjacent transmission issues, but not a clear data-center timeline change. Regulator/grid corroboration is general, not project-specific."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-30",
+   "requests": [
+    {
+     "q": "researchers AI compute access government policy eligibility allocations published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "public research AI compute program awarded resources eligibility funding delivered published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.eurohpc-ju.europa.eu/supercomputers/supercomputers-access-policy-and-faq_en",
+     "https://www.nsf.gov/geo/updates/national-artificial-intelligence-research-resource-nairr",
+     "https://www.nsf.gov/focus-areas/ai/nairr",
+     "https://www.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers",
+     "https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence",
+     "https://www.nsf.gov/cise/updates/nsf-establishes-operations-center-national-artificial",
+     "https://www.eurohpc-ju.europa.eu/playground-access-ai-factories_en",
+     "https://www.eurohpc-ju.europa.eu/ai-factories/faqs-ai-factories_en",
+     "https://www.eurohpc-ju.europa.eu/eurohpc-joint-undertaking-amends-its-work-programme-incorporate-new-ai-factory-pillar-2024-07-26_en",
+     "https://digital-strategy.ec.europa.eu/en/news/eurohpc-regulation-amended-strengthen-europes-ai-and-quantum-capabilities",
+     "https://www.alcf.anl.gov/nairr-program",
+     "https://www.psc.edu/psc-nairr-faq/",
+     "https://www.psc.edu/neocortex-nairr/",
+     "https://www.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai",
+     "https://new.nsf.gov/funding/opportunities/dcl-national-artificial-intelligence-research-resource-nairr",
+     "https://www.whitehouse.gov/wp-content/uploads/2026/01/WHOSTP-2025-Wins.pdf",
+     "https://oecd.ai/en/dashboards/policy-initiatives/european-high-performance-computing-joint-undertaking-eurohpc-ju",
+     "https://grantedai.com/blog/nsf-nairr-operations-center-award-2616251-35-million-sdsc-tacc-september-1-2026-900-teams-monthly-allocation-cycle-strategy",
+     "https://grantedai.com/grants/eurohpc-ai-factories-compute-access-ai-research-startups-eurohpc-f4a5b6c7",
+     "https://csc.fi/en/news/eurohpc-ju-access-calls-for-ai-factories/"
+    ],
+    [
+     "https://new.nsf.gov/news/nsf-led-national-ai-research-resource-pilot-awards",
+     "https://www.nsf.gov/focus-areas/ai/nairr",
+     "https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence",
+     "https://www.nsf.gov/news/nsf-announces-funding-establish-national-ai-research",
+     "https://www.nsf.gov/cise/updates/nsf-establishes-operations-center-national-artificial",
+     "https://www.nsf.gov/cise/updates/nairr-2-years-advancing-american-artificial-intelligence",
+     "https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-rapid-access-route/",
+     "https://www.gov.uk/government/publications/airr-compute-opportunity-ai-for-science/airr-compute-opportunity-ai-for-science",
+     "https://www.gov.uk/government/publications/sovereign-ai-airr-launch-opportunity-call-for-researchers/sovereign-ai-airr-launch-opportunity-call-for-researchers",
+     "https://www.gov.uk/government/publications/ai-research-resource",
+     "https://www.eurohpc-ju.europa.eu/eurohpc-ju-call-proposals-ai-science-and-collaborative-eu-projects_en",
+     "https://www.eurohpc-ju.europa.eu/eurohpc-joint-undertaking-launches-ai-factories-calls-boost-european-leadership-trustworthy-ai-2024-09-10_en",
+     "https://www.eurohpc-ju.europa.eu/open-call-support-hpc-powered-artificial-intelligence-ai-applications-2023-11-28_en",
+     "https://www.eurohpc-ju.europa.eu/eurohpc-joint-undertaking-launches-ai-factories-antennas-call-strengthen-network-eurohpc-ai-2025-04-09_en",
+     "https://www.eurohpc-ju.europa.eu/new-call-strengthen-eurohpc-international-cooperation-artificial-intelligence-2025-03-04_en",
+     "https://www.gov.uk/government/news/engines-of-ai-primed-to-accelerate-new-breakthroughs-economic-growth-and-transform-the-uk-into-an-ai-maker",
+     "https://www.nsf.gov/news/nsf-expanding-national-ai-infrastructure-new-data-systems",
+     "https://www.gov.uk/government/publications/expression-of-interest-airr-heterogeneous-supercomputer-host-site-selection/expression-of-interest-airr-heterogeneous-supercomputer-host-site-selection",
+     "https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy",
+     "https://www.eurohpc-ju.europa.eu/new-eurohpc-project-strengthen-europes-role-ai-science-2026-05-20_en"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.eurohpc-ju.europa.eu/supercomputers/supercomputers-access-policy-and-faq_en",
+    "https://new.nsf.gov/news/nsf-led-national-ai-research-resource-pilot-awards"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet contains concrete access policies/programs: NAIRR Pilot and EuroHPC/UK AIRR access routes. It gives eligibility and allocation/resource evidence: U.S. researchers/educators and first 35 NAIRR projects; EuroHPC eligible European users and managed access share/free calls; AIRR GPU-hour routes. Funding totals are separable from delivered compute/resources via UK £ commitments and NAIRR-OC/operations evidence."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet supports at least two concrete policies (NAIRR and UK AIRR, also EuroHPC). It includes eligibility and allocation evidence: U.S.-based researchers/educators and first NAIRR allocations; UK researcher/SME routes with GPU-hour amounts. It also separates funding commitments/operations funding from usable compute allocations and delivered systems."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-35",
+   "requests": [
+    {
+     "q": "server useful life estimate change earnings effect annual report Microsoft Amazon published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "server depreciation useful life changes net income impact 2024 2025 filings published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+     "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm",
+     "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+     "https://hudson-labs.com/research/msft-server-useful-life",
+     "https://hudson-labs.com/research/amazon-server-depreciation-amzn",
+     "https://www.theregister.com/2022/08/02/microsoft_server_life_extension/",
+     "https://www.datacenterknowledge.com/hyperscalers/data-center-hardware-refresh-cutback-by-microsoft-what-s-next-",
+     "https://www.computerweekly.com/news/252523221/Microsoft-anticipates-33bn-savings-by-extending-server-life",
+     "https://blog.auditanalytics.com/change-in-accounting-estimate-boosts-microsofts-q1-2021-gross-margin/",
+     "https://deepquarry.substack.com/p/amazon-revises-server-lifespan-amid",
+     "https://behindthebalancesheet.substack.com/p/amazons-ai-reality-check",
+     "https://vapwealthadvisors.com/big-tech-depreciation-math/",
+     "https://siliconanalysts.com/analysis/hyperscaler-ai-capex-depreciation-wall-2026",
+     "https://l0g.fr/en/analysis/how-long-does-ai-server-live/",
+     "https://shittysits.substack.com/p/the-useful-life-question",
+     "https://www.buxtonhelmsley.com/news-and-insights/the-useful-life-question-a-forensic-framework-for-reading-hyperscaler-depreciation-policy-in-the-artificial-intelligence-capital-expenditure-era",
+     "https://www.mbi-deepdives.com/big-tech-earnings-quality/",
+     "https://bedrock.substack.com/p/accounting-policy-changes-boost-tech",
+     "https://www.calcbench.com/blog/post/blogger3453498176905992637/More-on-Depreciation-Adjustments",
+     "https://dev.to/tmdlrg/the-depreciation-lever-one-assumption-that-added-billions-to-big-techs-cloud-profits-12o3"
+    ],
+    [
+     "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/amzn-20240930.htm",
+     "https://www.hudson-labs.com/research/amazon-server-depreciation-amzn",
+     "https://hudson-labs.com/research/amazon-server-depreciation-amzn",
+     "https://hudson-labs.com/research/server-useful-life-amzn-meta",
+     "https://wiresift.com/ai-server-depreciation",
+     "https://hudson-labs.com/research/meta-financials-meta",
+     "https://unanswered.io/guide/amazon-server-lifespan-useful-life",
+     "https://deepquarry.substack.com/p/amazon-revises-server-lifespan-amid",
+     "https://medium.com/all-on-the-line/the-useful-life-of-a-useful-life-2caac709b5e0",
+     "https://siliconanalysts.com/analysis/hyperscaler-ai-capex-depreciation-wall-2026",
+     "https://www.buxtonhelmsley.com/news-and-insights/the-useful-life-question-a-forensic-framework-for-reading-hyperscaler-depreciation-policy-in-the-artificial-intelligence-capital-expenditure-era",
+     "https://behindthebalancesheet.substack.com/p/amazons-ai-reality-check",
+     "https://chipstockinvestor.com/metas-ai-data-center-depreciation-problem-breaking-down-michael-burrys-argument-so-far-against-the-hyperscalers-and-nvidia/",
+     "https://vapwealthadvisors.com/big-tech-depreciation-math/",
+     "https://www.levelheadedinvesting.com/p/are-ai-chips-useful-lives-creating-useless-earnings",
+     "https://thecuberesearch.com/298-breaking-analysis-resetting-gpu-depreciation-why-ai-factories-bend-but-dont-break-useful-life-assumptions/",
+     "https://www.footnotesanalyst.com/hyperscaler-depreciation-real-issue-wrong-debate/",
+     "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+     "https://www.sec.gov/Archives/edgar/data/1940177/000143774924026430/podc20240630_10q.htm",
+     "https://www.sec.gov/Archives/edgar/data/1083301/000108330125000038/wulf-20250331.htm"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/amzn-20240930.htm"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet includes SEC filing evidence for Amazon and Microsoft with dated useful-life changes: Amazon servers 5→6 effective Jan. 1, 2024 and subset servers/networking 6→5 effective Jan. 1, 2025; Microsoft server/network equipment 4→6 effective FY2023. Amazon quantifies D&A/net-income and operating-income impacts. Scope and accounting-estimate/depreciation timing distinctions are supported."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "SEC filing evidence shows dated changes for Amazon (2024 10-K/10-Q, effective Jan. 1 2024/2025) and Microsoft (2024 10-K excerpt, July 2022/FY2023). Amazon quantifies depreciation, net-income and operating-income effects. Packet identifies servers/networking equipment/subsets and includes estimate/depreciation timing/non-cash distinctions versus operational/technology life."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-36",
+   "requests": [
+    {
+     "q": "IFRS 13 fair value latest financing transaction price adverse change measurement date published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "IPEV valuation guidelines calibration recent investment price material adverse event published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs13.html",
+     "https://www.ifrs.org/content/dam/ifrs/supporting-implementation/ifrs-13/education-ifrs-13-eng.pdf",
+     "http://www.icap.net.pk/volume-27-xxvii-2021-22/1-2-determination-of-fair-value-at-the-measurement-date-under-ifrs-13",
+     "https://www.privateequityvaluation.com/FAQs",
+     "https://static.levocdn.com/WGLBUT82/IVCA'%20Guidance%20Note%20on%20IPEV-7179086089128831173.pdf",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-publishes-review-timeline-for-the-International-Private-Equity-and-Venture-Capital-Valuation-Guidelines",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-publishes-draft-amendments-to-the-International-Private-Equity-and-Venture-Capital-Valuation-Guidelines-October-2022",
+     "https://ifrscommunity.com/knowledge-base/fair-value-framework/",
+     "https://iasplus.com/content/7ec0d639-9b1f-4083-beb7-9e80d8b828b4",
+     "https://www.accaglobal.com/middle-east/en/student/exam-support-resources/professional-exams-study-resources/strategic-business-reporting/technical-articles/ifrs-13.html",
+     "https://www.doanegrantthornton.ca/insights/insights-into-ifrs-13---fair-value-measurement/",
+     "https://valtech-valuation.sg/valuing-share-awards-issuance-for-financial-reporting/",
+     "https://www.valtech-valuation.com/valuing-share-awards-for-financial-instruments/",
+     "https://annualreporting.info/ifrs-13-understand-inputs-to-valuation-techniques/",
+     "https://cms.mercercapital.com/insights/blogs/ria-valuation-insights-blog/2015/updated-valuation-best-practices-for-venture-capital-and-private-equity-funds/",
+     "https://www.burfordcapital.com/insights-news-events/insights-research/fair-value-on-trial-why-the-new-2025-ipev-guidelines-could-mean-more-valuation-disputes/",
+     "https://www.wallstreetmojo.com/ifrs-13-fair-value-measurement/",
+     "https://vls-online.com/blog/ifrs-13-fair-value-measurement",
+     "https://ifrscommunity.com/knowledge-base/ifrs-9-measurement-of-financial-instruments/",
+     "https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2021/issued/part-a/ifrs-9-financial-instruments.pdf"
+    ],
+    [
+     "https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf",
+     "https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/IPEV%20Valuation%20Guidelines%20-%20December%202022.pdf",
+     "https://static.levocdn.com/WGLBUT82/6993323265053745483.pdf",
+     "https://www.pwc.com/jg/en/events/document/ipev-2022-update-summary-26-january-2023.pdf",
+     "https://www.privateequityvaluation.com/FAQs",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-publishes-updated-International-Private-Equity-and-Venture-Capital-Valuation-Guidelines-2025",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-statement-on-the-application-of-the-2025-Guidelines-in-the-current-market-environment",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-publishes-draft-amendments-to-the-International-Private-Equity-and-Venture-Capital-Valuation-Guidelines--October-2025",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-publishes-draft-amendments-to-the-International-Private-Equity-and-Venture-Capital-Valuation-Guidelines-October-2022",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-provides-views-on-estimating-fair-value-at-31-March-2022",
+     "https://www.privateequityvaluation.com/latest-news/details/IPEV-Board-publishes-review-timeline-for-the-International-Private-Equity-and-Venture-Capital-Valuation-Guidelines",
+     "https://www.privateequityvaluation.com/",
+     "https://www.privateequityvaluation.com",
+     "https://thepeinvestor.com/2024/05/16/private-equity-valuation-guidelines/",
+     "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/services/strategy-transactions/images/valuation-modeling-economics/ey-nternational-private-equity-and-venture-capital-valuation-guidelines.pdf",
+     "https://www.moore.lt/moore-intelligence/valuation-guidelines-for-private-equity-and-venture-capital/",
+     "https://www.mazantipulse.com/updates/aif/ipev-publishes-2025-valuation-guidelines/",
+     "https://www.blickrothenberg.com/insights/detail/ipev-guideline-updates-where-do-we-see-the-biggest-impact/",
+     "https://www.scalex-invest.com/blog/ipev-a-comprehensive-guide-for-venture-capital-and-private-equity",
+     "https://www.studocu.com/en-gb/document/university-of-oxford/oracle-1z0-1085-20-exam-practice-test-questions-answers/ipev-valuation-guidelines-december-2022-edition/133811615"
+    ]
+   ],
+   "selected_urls": [
+    "https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs13.html",
+    "https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf"
+   ],
+   "fetch_status": [
+    400,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Official IFRS search excerpt states the primary IFRS 13 fair-value definition: orderly transaction between market participants at the measurement date. Full IPEV 2025 text provides public valuation guidance on calibration, current market conditions, changed investee/market facts, and expressly says price of recent investment is not automatically fair value."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Official IFRS excerpt gives the primary fair-value rule: exit price in an orderly transaction between market participants at the measurement date. Fetched IPEV 2025 provides public guidance on calibration, current market inputs, changed market/investee conditions, and says price of recent investment is not automatically fair value."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-41",
+   "requests": [
+    {
+     "q": "AI protein design benchmark wet lab validation primary study published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI protein design clinical human outcomes experimental validation stages published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://www.biorxiv.org/content/10.64898/2026.05.08.723784v1.full",
+     "https://arxiv.org/html/2605.04118v1",
+     "https://www.biorxiv.org/content/10.1101/2025.04.29.651154v1.full",
+     "https://www.biorxiv.org/content/10.1101/2025.07.29.667290v1",
+     "https://www.science.org/doi/10.1126/science.adq1741",
+     "https://www.biorxiv.org/content/10.1101/2025.08.05.668824v2",
+     "https://www.biorxiv.org/content/10.1101/2025.05.15.654077v2.full",
+     "https://arxiv.deeppaper.ai/papers/2608.20755v1",
+     "https://arxiv.org/abs/2602.20176",
+     "https://www.biorxiv.org/content/10.1101/2024.06.20.599843v1.full",
+     "https://www.biorxiv.org/content/10.1101/2024.08.01.606258v6",
+     "https://proteinbase.com/competitions",
+     "https://www.nature.com/subjects/protein-design/nbt",
+     "https://www.biorxiv.org/content/10.1101/2020.10.28.359828v1.full",
+     "https://runtimewire.com/article/anthropic-claude-autonomous-protein-binder-design",
+     "https://www.machinebrief.com/news/anthropic-protein-design-wet-lab-validation-binders",
+     "https://intuitionlabs.ai/articles/anthropic-adaptyv-protein-design-competition-guide",
+     "https://rewire.it/blog/protein-design-foundation-models-in-2026/",
+     "https://www.lefilia.fr/article/6076771-de-l-in-silico-au-laboratoire-humide-evaluation-des-performances-de-l-ia-en-conception-de-proteines",
+     "https://intuitionlabs.ai/articles/evaluating-biology-foundation-models"
+    ],
+    [
+     "https://investors.absci.com/news-releases/news-release-details/absci-announces-first-participants-dosed-phase-1-clinical-trial",
+     "https://generatebiomedicines.com/media-center/generatebiomedicines-to-initiate-global-phase-3-studies-of-gb-0895-a-long-acting-anti-tslp-antibody-for-severe-asthma-engineered-with-ai",
+     "https://www.prnewswire.co.uk/news-releases/generatebiomedicines-to-initiate-global-phase-3-studies-of-gb-0895-a-long-acting-anti-tslp-antibody-for-severe-asthma-engineered-with-ai-302628234.html",
+     "https://www.stocktitan.net/sec-filings/ABSI/8-k-absci-corp-reports-material-event-0cdf17627325.html",
+     "http://business.sherbrookerecord.com/sherbrookerecord/article/gnwcq-2026-6-24-absci-announces-positive-interim-phase-1-data-from-the-headline-trial-of-abs-201-a-novel-antibody-targeting-the-prolactin-receptor-prlr",
+     "https://generatebiomedicines.com/media-center/generatebiomedicines-fortifies-leadership-in-generative-ai",
+     "https://www.prnewswire.com/news-releases/generatebiomedicines-provides-update-on-its-platform-and-pipeline-powered-by-ai-at-the-43rd-annual-jp-morgan-healthcare-conference-302346582.html",
+     "https://www.biopharmatrend.com/news/absci-doses-first-participants-in-phase-1-trial-of-ai-designed-antibody-for-ibd-1247/",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12958671/",
+     "https://www.sciencedirect.com/science/article/pii/S0969212625003119",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC13079691/",
+     "https://www.peptidejournal.org/research/generative-ai-novel-peptide-sequences-2026",
+     "https://healthcarediscovery.ai/ai-designed-drugs-human-trials-2026-status-report/",
+     "https://voicebot.ai/2023/04/17/elon-musk-launches-generative-ai-initiative-x-ai/",
+     "https://generatebiomedicines.com/platform",
+     "https://hk.marketscreener.com/news/generate-biomedicines-corporate-presentation-a-april-2026-ce7e50dade81f226",
+     "https://www.pharmasalmanac.com/articles/reprogramming-the-rules-how-ai-is-transforming-de-novo-protein-design-in-drug-development",
+     "https://www.aiproteins.com/media/ai-proteins-secures-18-2-million-seed-round-to-pioneer-high-throughput-platform-for-advanced-miniprotein-therapeutics",
+     "https://ardigen.com/latest-progress-and-tools-for-de-novo-generation-of-peptides/",
+     "https://www.americanbankingnews.com/2026/09/15/generate-biomedicines-genb-versus-the-competition-head-to-head-contrast.html"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/html/2605.04118v1",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12958671/"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet identifies multiple usable examples: ProtDBench benchmark/wet-lab-annotated filtering evidence and Generate/Absci clinical AI-designed antibodies, plus Anthropic lab-binding snippets. Stages are distinguishable from in-silico benchmark to wet-lab binding to Phase 1/Phase 3 trials. Measures include caveats on verifier bias, binding/function limits, endpoints, and no proven patient outcomes."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet gives identifiable examples: ProtDBench/arXiv dated May 5 2026 with benchmark, verifier, throughput and wet-lab-annotated evidence, plus Generate GB-0895 Dec. 1 2025 Phase 3/Phase 1 clinical evidence; Absci Phase 1 is additional. Stages are distinguishable, and metrics/endpoints support cautious comparison without claiming proven patient benefit."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-42",
+   "requests": [
+    {
+     "q": "AI inference unit cost falling public data price per token published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI customer usage workload tokens spending growth unit cost total bill published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/abs/2603.28576",
+     "https://arxiv.org/pdf/2511.23455",
+     "https://arxiv.org/abs/2608.29843",
+     "https://arxiv.org/pdf/2506.04645",
+     "https://arxiv.org/html/2603.06630",
+     "https://arxiv.org/abs/2607.07207",
+     "https://export.arxiv.org/abs/2605.20281",
+     "https://capitalandcompute.net/blog/cost-per-token-over-time/",
+     "https://wdctv.news/the-latest-crack-in-the-thesis-for-the-trillion-dollar-ai-boom-tokens-are-getting-cheaper/",
+     "https://introl.com/blog/inference-unit-economics-true-cost-per-million-tokens-guide",
+     "https://dataku.ai/blog/inference-cost-collapse-one-chart",
+     "https://cynked.ai/blog/ai-inference-cost-paradox-rising-bills-2026",
+     "https://o-mega.ai/articles/the-true-cost-of-llm-inference-in-2026",
+     "https://aifn.co/inference-economics-in-2026-token-prices-sparse-models-and-where-costs-are-actually-going/",
+     "https://wdmorgan.com/blog/ai-inference-cost-economics/",
+     "https://algeriatech.news/ai-model-price-war-gemini-gpt5-inference-cost-2026/",
+     "https://tokenmix.ai/blog/ai-api-pricing-war-2026",
+     "https://gigagpu.com/ai-inference-cost-trends-2026/",
+     "https://www.labo-llm.fr/en/infrastructure/inference-vs-training-costs",
+     "https://mem0.ai/blog/llm-api-cost-breakdown-claude-gemini-openai-compared"
+    ],
+    [
+     "https://help.openai.com/en/articles/20001415-chatgpt-rate-card-enterprise-token-based-pricing",
+     "https://help-lb.openai.com/en/articles/10478918-reviewing-api-usage-and-costs",
+     "https://docs.anthropic.com/en/docs/claude-code/costs",
+     "https://help.openai.com/en/articles/11481834-chatgpt-rate-card-business-enterpriseedu-credit-based-pricing",
+     "https://openai.com/index/managing-ai-investments-in-agentic-era/",
+     "https://developers.openai.com/cookbook/articles/per_run_spending_controller_responses_api",
+     "https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them",
+     "https://help-lb.openai.com/en/articles/4936856-understanding-and-counting-tokens",
+     "https://www.anthropic.com/research/economic-index-june-2026-report",
+     "https://www.anthropic.com/claude-sonnet-5-5",
+     "https://www.anthropic.com/news/claude-opus-4-7",
+     "https://openai.com/index/a-scorecard-for-the-ai-age/",
+     "https://help-lb.openai.com/en/articles/11323177-billing-guide-for-the-reinforcement-fine-tuning-api",
+     "https://www.anthropic.com/claude-code",
+     "https://www.arturmarkus.com/the-inference-cost-paradox-why-generative-ai-spending-surged-320-in-2025-despite-per-token-costs-dropping-1000x-and-what-it-means-for-your-ai-budget-in-2026/",
+     "https://trendytechtribe.com/ai/cheaper-ai-bigger-bills",
+     "https://www.cloudzero.com/blog/ai-statistics/",
+     "https://demg.ai/blog/usage-based-pricing-eating-budgets-consultants-advise-ai-spend/",
+     "https://greyjournal.net/hustle/work-tech/how-much-companies-spend-ai-tokens-2026/",
+     "https://www.practicallogix.com/the-ai-token-bill-comes-due-inside-the-2026-enterprise-finops-crisis/"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/abs/2603.28576",
+    "https://help.openai.com/en/articles/20001415-chatgpt-rate-card-enterprise-token-based-pricing"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet gives dated unit-price evidence: arXiv submitted Mar. 30, 2026 reports ~600-fold token-price decline over 2020–2026. Usage/workload growth appears in excerpts citing token/API-volume growth and agentic workloads. Total-spend direction is not directly established for the same customers; OpenAI rate-card/formula shows spend depends on tokens, model, task size, automations, and modes."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet gives dated unit-price evidence (arXiv submitted Mar. 30, 2026: 600-fold token-price decline, 2020–2026; OpenAI rate card). It includes empirical workload growth in excerpts (e.g., Google tokens/month 7x; Ramp token consumption 1,001%). It also supplies total-cost caveats/formulas and notes scope limits, supporting an unresolved total-spend direction rather than inevitability."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-47",
+   "requests": [
+    {
+     "q": "AI research paper table figure benchmark subgroup denominator headline caveat published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI benchmark table numerical comparison sample size figure limitations published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://arxiv.org/html/2609.25154v1",
+     "https://arxiv.org/html/2606.24883",
+     "https://arxiv.org/html/2607.28608v1",
+     "https://arxiv.org/html/2607.28788v1",
+     "https://arxiv.org/html/2602.16763v4",
+     "https://arxiv.org/html/2608.03340v1",
+     "https://arxiv.org/pdf/1811.08186",
+     "https://arxiv.org/html/2511.05614v1",
+     "https://arxiv.org/abs/2608.11891",
+     "https://arxiv.org/abs/2607.03926",
+     "https://arxiv.org/abs/2605.08146",
+     "https://arxiv.org/abs/2607.06930",
+     "https://reviewarticle.org/wiki/ai-agent-evaluation-benchmarks/",
+     "https://www.far.ai/event-recordings/daniel-kang-ai-agent-benchmarks-are-broken",
+     "https://arxiv.deeppaper.ai/domain_tags/AI%20Evaluation",
+     "https://www.explainx.ai/blog/ai-benchmark-claims-fact-check-2026",
+     "https://needl.ai/technical-notes/askneedl-officeqa-pro-benchmark",
+     "https://arxiv.org/search/cs?query=Zeng%2C+B&searchtype=author",
+     "https://arxiv.org/search/cs?query=Daniel%2C+L&searchtype=author",
+     "https://arxiv.org/search/cs?query=Jones%2C+C&searchtype=author"
+    ],
+    [
+     "https://arxiv.org/html/2510.10457v1",
+     "https://arxiv.org/abs/2402.09880",
+     "https://arxiv.org/pdf/2402.09880",
+     "https://arxiv.org/html/2609.19182",
+     "https://arxiv.org/html/2502.06559v1",
+     "https://arxiv.org/abs/2608.06202v1",
+     "https://arxiv.org/html/2602.16763v1",
+     "https://arxiv.org/abs/2505.15055",
+     "https://arxiv.org/html/2404.16966v2",
+     "https://arxiv.org/html/2605.28830v1",
+     "https://arxiv.org/html/2608.03340v1",
+     "https://arxiv.org/abs/2607.26159",
+     "https://arxiv.org/abs/2509.26600",
+     "https://arxiv.org/html/2510.07575v2",
+     "https://arxiv.org/html/2602.24173v1",
+     "https://arxiv.org/html/2504.10284v4",
+     "https://arxiv.org/abs/2406.19314",
+     "https://arxiv.org/html/2504.10112v2",
+     "https://arxiv.org/abs/2607.00700",
+     "https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough"
+    ]
+   ],
+   "selected_urls": [
+    "https://arxiv.org/html/2609.25154v1",
+    "https://arxiv.org/html/2510.10457v1"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet includes two primary arXiv papers with figure/table evidence: ARCAS (figures/confusion matrices; dated 21 Sep 2026) and EssenceBench (Figures 1–3, Table 1; dated 12 Oct 2025). Exact statistics appear (e.g., ARCAS 99.99% GenImage mean; EssenceBench HellaSwag errors). Denominator/chart traps are explicit: available/scored denominators, macro vs pooled, sampled-instance figures."
+    },
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "Packet contains two primary arXiv papers with figure/table evidence: ARCAS deepfake benchmark figures/confusion matrices and EssenceBench figures/Table 1. It provides exact statistics such as 99.99% GenImage mean accuracy on 100,000 records and 25×/200× HellaSwag compression. It explicitly flags traps: scored vs indexed denominators, unavailable records, contextual/non-matched chart comparisons."
+    }
+   ]
+  },
+  {
+   "id": "ASC-HARD-48",
+   "requests": [
+    {
+     "q": "AI deployment customer measured financial savings cost ROI case study published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    },
+    {
+     "q": "AI production deployment customer operating result no ROI evidence published by September 29, 2026 Prefer primary sources: official company announcements and filings, peer-reviewed papers and arXiv preprints, government and regulator pages. Return source URLs.",
+     "depth": "deep",
+     "outputType": "searchResults"
+    }
+   ],
+   "result_urls": [
+    [
+     "https://aws.amazon.com/solutions/case-studies/exl-case-study/",
+     "https://aws.amazon.com/solutions/case-studies/prime-focus-case-study/",
+     "https://aws.amazon.com/partners/success/arbonne-neuraflash/",
+     "https://aws.amazon.com/solutions/case-studies/simplismart-ai-case-study/",
+     "https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/adoption-case-studies",
+     "https://www.microsoft.com/en-us/industry/microsoft-in-business/content-type/customer-stories/",
+     "https://aws.amazon.com/solutions/case-studies/ferrari-generative-ai-case-study/",
+     "https://masterofcode.com/blog/ai-in-finance-use-cases-applications-examples",
+     "https://medium.com/@devashish_m/roi-of-ai-in-cx-prove-your-spend-bc95383ff702",
+     "https://www.aiconiclab.com/blog/real-examples-of-boosted-roi",
+     "https://fin.ai/learn/roi-ai-customer-service-agents-benchmarks",
+     "https://fin.ai/learn/ai-customer-service-cost-savings-industry",
+     "https://www.egauge.net/blog/2025/11/lcoe-ai-and-velosolar/",
+     "https://www.multimodal.dev/post/useful-ai-agent-case-studies",
+     "https://aws.amazon.com/ai/generative-ai/customers/",
+     "https://www.microsoft.com/en-us/customers/",
+     "https://www.microsoft.com/en-au/customers",
+     "https://cloud.google.com/customers/visio-ai",
+     "https://arxiv.org/abs/2602.09846",
+     "https://arxiv.org/html/2608.11626v1"
+    ],
+    [
+     "https://arxiv.org/html/2607.29089v1",
+     "https://arxiv.org/html/2506.02064v3",
+     "https://www.sec.gov/files/sec-iac-artificial-intelligence-recommendation-111825.pdf",
+     "https://www.sec.gov/files/approved-artificial-intelligence-disclosure-recommendation-120425.pdf",
+     "https://arxiv.org/html/2604.12162v1",
+     "https://arxiv.org/html/2609.32414",
+     "https://arxiv.org/html/2605.01604v1",
+     "https://arxiv.org/html/2511.14136v1",
+     "https://arxiv.org/pdf/2512.04123",
+     "https://arxiv.org/html/2605.27492v1",
+     "https://arxiv.org/html/2605.10384v1",
+     "https://arxiv.org/html/2506.03828",
+     "https://byteiota.com/95-of-enterprise-ai-investments-delivered-zero-roi-mit-study/",
+     "https://byteiota.com/ai-roi-crisis-95-percent-failure-rate/",
+     "https://www.beri.net/article/72-percent-enterprise-ai-projects-fail-gartner-roi-reality-check",
+     "https://www.aicerts.ai/news/enterprise-ai-roi-faces-growing-scrutiny-in-2026/",
+     "https://www.solidaitech.com/2026/06/generative-ai-complete-guide.html",
+     "https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai",
+     "https://www.nber.org/papers/w31161",
+     "https://www.nber.org/system/files/working_papers/w31161/w31161.pdf"
+    ]
+   ],
+   "selected_urls": [
+    "https://aws.amazon.com/solutions/case-studies/exl-case-study/",
+    "https://arxiv.org/html/2607.29089v1"
+   ],
+   "fetch_status": [
+    200,
+    200
+   ],
+   "grades": [
+    {
+     "scores": [
+      1,
+      1,
+      1
+     ],
+     "reason": "EXL full case gives a deployed Aug. 2024 generative-AI underwriting assistant with onboarded customers and stated cost/time economics. Other search results give additional economic deployments. EXL also supplies bounded evidence: public claims are potential/up-to savings, not named customer ROI. ArXiv/SEC excerpts support distinguishing no measurable/tracked or undisclosed ROI from negative ROI."
+    },
+    {
+     "scores": [
+      1,
+      0.5,
+      1
+     ],
+     "reason": "EXL/AWS full text verifies an Aug. 2024 generative-AI underwriting deployment with stated cost/time economics. The packet lacks a second named, fully verifiable deployment whose public evidence is bounded but ROI unresolved; only general/anonymized or snippet-level evidence supports that. SEC/arXiv snippets distinguish unmeasured/no measurable/undisclosed ROI from proven negative ROI."
+    }
+   ]
+  }
+ ]
+}

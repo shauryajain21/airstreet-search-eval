@@ -1,0 +1,323 @@
+{
+ "as_of": "2026-09-29",
+ "answers": [
+  {
+   "id": "ASC-QA-01",
+   "required_facts": [
+    "USD 1.05 billion",
+    "SoftBank Group led the round"
+   ],
+   "grading_note": "Do not substitute a later round or cumulative funding.",
+   "source_urls": [
+    "https://wayve.ai/press/series-c/"
+   ]
+  },
+  {
+   "id": "ASC-QA-02",
+   "required_facts": [
+    "Partner Director of Science at Microsoft",
+    "Head of the Mixed Reality & AI Labs"
+   ],
+   "grading_note": "Resolve Jamie Shotton, not Jaime Teevan.",
+   "source_urls": [
+    "https://jamie.shotton.org/"
+   ]
+  },
+  {
+   "id": "ASC-QA-03",
+   "required_facts": [
+    "Thrive Capital",
+    "USD 600 million",
+    "2025-03-31"
+   ],
+   "grading_note": "Use the company announcement date, not the month reported by a secondary summary.",
+   "source_urls": [
+    "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round"
+   ]
+  },
+  {
+   "id": "ASC-QA-04",
+   "required_facts": [
+    "USD 500 million raised",
+    "USD 11 billion valuation",
+    "Sequoia Capital"
+   ],
+   "grading_note": "Keep financing proceeds separate from ARR.",
+   "source_urls": [
+    "https://elevenlabs.io/blog/series-d"
+   ]
+  },
+  {
+   "id": "ASC-QA-05",
+   "required_facts": [
+    "More than USD 500 million",
+    "ARR",
+    "Company-reported milestone for the first four months of 2026"
+   ],
+   "grading_note": "Not USD 500 million of revenue earned during those four months.",
+   "source_urls": [
+    "https://elevenlabs.io/blog/500m-arr-and-new-investors"
+   ]
+  },
+  {
+   "id": "ASC-QA-06",
+   "required_facts": [
+    "February 4 post: over USD 330 million",
+    "May 5 post: USD 350 million",
+    "No necessary contradiction: USD 350 million is above USD 330 million"
+   ],
+   "grading_note": "Preserve both dated statements; do not invent a restatement explanation. May page was last updated 2026-09-20 in the checked snapshot.",
+   "source_urls": [
+    "https://elevenlabs.io/blog/series-d",
+    "https://elevenlabs.io/blog/500m-arr-and-new-investors"
+   ]
+  },
+  {
+   "id": "ASC-QA-07",
+   "required_facts": [
+    "Run-rate revenue surpassed USD 30 billion",
+    "Company-reported run rate, not full-year recognized revenue"
+   ],
+   "grading_note": "Do not relabel it as audited revenue or assume a recurring-revenue definition.",
+   "source_urls": [
+    "https://www.anthropic.com/news/anthropic-amazon-compute"
+   ]
+  },
+  {
+   "id": "ASC-QA-08",
+   "required_facts": [
+    "No audited gross-margin percentage is disclosed in that post"
+   ],
+   "grading_note": "Bound the absence to this source. Do not claim the company has never disclosed margins elsewhere.",
+   "source_urls": [
+    "https://elevenlabs.io/blog/500m-arr-and-new-investors"
+   ]
+  },
+  {
+   "id": "ASC-QA-09",
+   "required_facts": [
+    "Pre-training: 2.664 million H800 GPU-hours",
+    "Full training: 2.788 million H800 GPU-hours"
+   ],
+   "grading_note": "Keep stages distinct; GPU-hours are not a GPU count.",
+   "source_urls": [
+    "https://arxiv.org/html/2412.19437v2"
+   ]
+  },
+  {
+   "id": "ASC-QA-10",
+   "required_facts": [
+    "Official V3 training: pre-training, context extension and post-training",
+    "Excludes prior research and ablation experiments",
+    "Assumed USD 2 per H800 GPU-hour"
+   ],
+   "grading_note": "Not total company spending or an all-in model-development bill.",
+   "source_urls": [
+    "https://arxiv.org/html/2412.19437v2"
+   ]
+  },
+  {
+   "id": "ASC-QA-11",
+   "required_facts": [
+    "2030 projection: 950 TWh",
+    "2025 baseline: 485 TWh",
+    "All data centers, not only AI-focused data centers"
+   ],
+   "grading_note": "Do not use the 2025 report's 945 TWh projection or confuse demand with generation.",
+   "source_urls": [
+    "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+   ]
+  },
+  {
+   "id": "ASC-QA-12",
+   "required_facts": [
+    "Agreement secures up to 5 GW",
+    "Nearly 1 GW of Trainium2 and Trainium3 capacity expected online by end-2026",
+    "These are announced commitments and timing, not proof that 5 GW was operational"
+   ],
+   "grading_note": "Maintain up to, nearly, and future delivery qualifiers.",
+   "source_urls": [
+    "https://www.anthropic.com/news/anthropic-amazon-compute"
+   ]
+  },
+  {
+   "id": "ASC-QA-13",
+   "required_facts": [
+    "17 language models",
+    "38 tasks"
+   ],
+   "grading_note": "Answer for arXiv 2609.28614 v1.",
+   "source_urls": [
+    "https://arxiv.org/abs/2609.28614v1"
+   ]
+  },
+  {
+   "id": "ASC-QA-14",
+   "required_facts": [
+    "30.5% for open-ended research-pipeline tasks",
+    "2.9% for task-specific kernels"
+   ],
+   "grading_note": "Do not substitute the explicitly permitted hacking or evasion experiment rates.",
+   "source_urls": [
+    "https://arxiv.org/abs/2609.28614v1"
+   ]
+  },
+  {
+   "id": "ASC-QA-15",
+   "required_facts": [
+    "40.5% with detailed feedback; 20.3% with generic rejection",
+    "No: detailed feedback bundles decisions, reasons and attempt history"
+   ],
+   "grading_note": "Do not claim explanations alone caused the difference.",
+   "source_urls": [
+    "https://arxiv.org/abs/2609.28614v1"
+   ]
+  },
+  {
+   "id": "ASC-QA-16",
+   "required_facts": [
+    "33 of 505 confirmed hacks",
+    "6.5%"
+   ],
+   "grading_note": "Use 505 confirmed hacks as the denominator, not all 677 attempts.",
+   "source_urls": [
+    "https://arxiv.org/abs/2609.28614v1"
+   ]
+  },
+  {
+   "id": "ASC-QA-17",
+   "required_facts": [
+    "Augmentation: 57%",
+    "Automation: 43%"
+   ],
+   "grading_note": "Do not substitute a later Economic Index release.",
+   "source_urls": [
+    "https://www.anthropic.com/news/the-anthropic-economic-index"
+   ]
+  },
+  {
+   "id": "ASC-QA-18",
+   "required_facts": [
+    "Claude.ai Free and Pro conversations",
+    "API, Team and Enterprise users were excluded",
+    "No: task-related usage analysis does not directly measure eliminated jobs"
+   ],
+   "grading_note": "Do not generalize sampled task usage to economy-wide displacement.",
+   "source_urls": [
+    "https://www.anthropic.com/news/the-anthropic-economic-index"
+   ]
+  },
+  {
+   "id": "ASC-QA-19",
+   "required_facts": [
+    "2025-01-13",
+    "50 recommendations"
+   ],
+   "grading_note": "Distinguish recommendations from actions completed.",
+   "source_urls": [
+    "https://www.gov.uk/government/publications/ai-opportunities-action-plan"
+   ]
+  },
+  {
+   "id": "ASC-QA-20",
+   "required_facts": [
+    "38 out of 50",
+    "Government-reported progress in the 2026-01-29 update"
+   ],
+   "grading_note": "Not independent verification of delivery and not a claim about the latest dashboard today.",
+   "source_urls": [
+    "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on"
+   ]
+  },
+  {
+   "id": "ASC-QA-21",
+   "required_facts": [
+    "The employer",
+    "Subject to an agreement to the contrary"
+   ],
+   "grading_note": "Keep the in-course-of-employment condition. Do not extend this automatically to contractors or patents.",
+   "source_urls": [
+    "https://www.gov.uk/guidance/ownership-of-copyright-works"
+   ]
+  },
+  {
+   "id": "ASC-QA-22",
+   "required_facts": [
+    "No; the creator is normally the first legal owner unless otherwise agreed in writing",
+    "An implied license to use commissioned work does not necessarily transfer ownership"
+   ],
+   "grading_note": "Distinguish permission to use a work from copyright ownership.",
+   "source_urls": [
+    "https://www.gov.uk/guidance/ownership-of-copyright-works"
+   ]
+  },
+  {
+   "id": "ASC-QA-23",
+   "required_facts": [
+    "It must be in writing",
+    "Signed by or on behalf of the assignor"
+   ],
+   "grading_note": "Identify the assignor, not just the recipient. This asks statutory formalities, not whether a particular unsigned deal transfers IP.",
+   "source_urls": [
+    "https://www.gov.uk/guidance/technical-guidance-for-official-receivers/39-intellectual-property-and-other-intangible-assets"
+   ]
+  },
+  {
+   "id": "ASC-QA-24",
+   "required_facts": [
+    "No",
+    "The provision is invalid and unenforceable insofar as it prevents a protected disclosure"
+   ],
+   "grading_note": "Do not say the entire NDA is necessarily void, or that every public disclosure qualifies for protection.",
+   "source_urls": [
+    "https://www.gov.uk/government/publications/victims-and-prisoners-act-2024-changes-to-non-disclosure-agreements/victims-and-prisoners-act-2024-changes-to-non-disclosure-agreements"
+   ]
+  },
+  {
+   "id": "ASC-QA-25",
+   "required_facts": [
+    "5% under the stated cap-based example",
+    "No; subsequent Series A new money dilutes the SAFE ownership"
+   ],
+   "grading_note": "Do not use pre-money arithmetic or claim permanent anti-dilution protection. Scope to the stated YC example.",
+   "source_urls": [
+    "https://www.ycombinator.com/blog/new-standard-deal"
+   ]
+  },
+  {
+   "id": "ASC-QA-26",
+   "required_facts": [
+    "From four years to six years",
+    "No; this is Microsoft's accounting estimate for the specified equipment, not proof of a universal physical GPU lifespan"
+   ],
+   "grading_note": "Keep accounting depreciation policy distinct from technological obsolescence and model-training utility.",
+   "source_urls": [
+    "https://www.microsoft.com/investor/reports/ar23/"
+   ]
+  },
+  {
+   "id": "ASC-QA-27",
+   "required_facts": [
+    "Exit price for selling an asset or transferring a liability",
+    "An orderly transaction between market participants",
+    "At the measurement date"
+   ],
+   "grading_note": "Not automatically historical cost or the last financing valuation; do not conflate ASC fund vehicles.",
+   "source_urls": [
+    "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-13-fair-value-measurement/"
+   ]
+  },
+  {
+   "id": "ASC-QA-28",
+   "required_facts": [
+    "Whether it controls the specified good or service before transfer to the customer",
+    "Principal recognizes gross consideration for the good or service",
+    "Agent recognizes its fee or commission"
+   ],
+   "grading_note": "Control is central; pricing discretion, inventory risk and fulfillment responsibility are supporting indicators, not stand-alone overrides.",
+   "source_urls": [
+    "https://www.ifrs.org/content/dam/ifrs/project/pir-ifrs-15/rfi-iasb-2023-4-pir-ifrs-15.pdf"
+   ]
+  }
+ ]
+}
